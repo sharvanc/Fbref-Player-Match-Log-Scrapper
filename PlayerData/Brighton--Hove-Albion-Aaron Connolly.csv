@@ -1,0 +1,18 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 4,Away,L 0–4,Brighton,Manchester City,N,FW,24,0,0,0,0,0,0,0,0,2,7,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,5,1,10,0,0
+Sat,Matchweek 5,Home,D 1–1,Brighton,Burnley,N,FW,6,0,0,0,0,2,1,0,0,4,3,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,2,9,0,0
+Sat,Matchweek 6,Away,D 0–0,Brighton,Newcastle Utd,N,LW WB FW,20,0,0,0,0,1,0,0,0,14,5,1,0,1,0.2,0.2,0.0,0,0,5,6,83.3,1,7,29,0,0
+Sat,Matchweek 7,Away,L 0–2,Brighton,Chelsea,N,LW,25,0,0,0,0,0,0,0,0,5,5,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,0,5,1,1,1
+Sat,Matchweek 8,Home,W 3–0,Brighton,Tottenham,Y,FW,80,2,0,0,0,6,3,0,0,38,14,0,0,2,0.6,0.6,0.1,4,1,10,14,71.4,9,20,75,1,4
+Sat,Matchweek 9,Away,L 1–2,Brighton,Aston Villa,Y,FW,45,0,0,0,0,2,1,0,0,11,9,0,0,0,0.5,0.5,0.0,1,0,4,5,80.0,50,7,66,0,0
+Sat,Matchweek 10,Home,W 3–2,Brighton,Everton,Y,FW,80,0,0,0,0,0,0,0,0,16,15,0,0,0,0.0,0.0,0.0,2,2,7,9,77.8,17,14,11,0,0
+Sat,Matchweek 11,Home,W 2–0,Brighton,Norwich City,Y,FW,86,0,0,0,0,4,0,0,0,34,15,0,0,0,0.2,0.2,0.0,0,0,15,20,75.0,11,29,127,0,2
+Sun,Matchweek 12,Away,L 1–3,Brighton,Manchester Utd,Y,FW,45,0,0,0,0,1,0,0,0,11,8,1,0,0,0.2,0.2,0.0,1,0,3,5,60.0,0,6,90,0,0
+Sat,Matchweek 14,Away,L 1–2,Brighton,Liverpool,Y,FW,76,0,0,0,0,1,1,0,0,19,17,0,0,0,0.1,0.1,0.0,0,0,9,12,75.0,12,10,71,0,1
+Thu,Matchweek 15,Away,W 2–1,Brighton,Arsenal,Y,FW,76,0,0,0,0,2,1,0,0,22,28,3,0,0,0.1,0.1,0.0,4,0,5,9,55.6,13,17,93,1,2
+Sat,Matchweek 18,Home,L 0–1,Brighton,Sheffield Utd,N,LW,45,0,0,0,0,2,1,0,0,15,5,1,0,1,0.1,0.1,0.0,0,0,4,5,80.0,0,11,33,0,1
+Thu,Matchweek 19,Away,L 1–2,Brighton,Tottenham,Y,FW,68,0,0,0,0,1,0,0,0,15,14,0,0,0,0.1,0.1,0.0,0,0,6,9,66.7,4,5,35,0,0
+Wed,Matchweek 21,Home,D 1–1,Brighton,Chelsea,N,CM,45,0,0,0,0,2,1,0,0,12,7,0,0,1,0.2,0.2,0.0,1,0,4,5,80.0,24,7,16,0,0
+Sat,Matchweek 23,Home,D 1–1,Brighton,Aston Villa,Y,FW,68,0,0,0,0,1,0,0,0,22,12,0,0,1,0.0,0.0,0.1,1,0,4,7,57.1,3,13,12,0,0
+Tue,Matchweek 24,Away,L 1–3,Brighton,Bournemouth,N,FW CM,30,0,0,0,0,0,0,0,0,4,5,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,4,1,0,0
+Sat,Matchweek 27,Away,D 1–1,Brighton,Sheffield Utd,N,FW,15,0,0,0,0,0,0,0,0,1,5,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,1,0,0

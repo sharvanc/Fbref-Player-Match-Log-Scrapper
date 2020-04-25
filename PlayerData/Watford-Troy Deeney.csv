@@ -1,0 +1,19 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Home,L 0–3,Watford,Brighton,Y*,FW,90,0,0,0,0,1,1,0,0,30,27,1,0,0,0.0,0.0,0.1,1,0,9,19,47.4,30,24,42,1,2
+Sat,Matchweek 2,Away,L 0–1,Watford,Everton,Y*,FW,90,0,0,0,0,2,1,0,0,32,12,2,0,0,0.6,0.6,0.0,2,0,12,21,57.1,55,12,9,1,1
+Sat,Matchweek 13,Home,L 0–3,Watford,Burnley,N,FW,34,0,0,0,0,0,0,0,0,6,2,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,8,1,1,0,0
+Wed,Matchweek 15,Away,L 0–2,Watford,Leicester City,Y*,FW,87,0,0,0,0,1,0,0,0,26,17,1,3,2,0.1,0.1,0.0,0,0,12,17,70.6,97,11,28,0,0
+Sat,Matchweek 16,Home,D 0–0,Watford,Crystal Palace,Y*,FW,90,0,0,0,0,1,0,0,0,28,15,1,1,0,0.1,0.1,0.1,3,0,13,17,76.5,63,14,13,0,0
+Sat,Matchweek 17,Away,L 0–2,Watford,Liverpool,Y*,FW,75,0,0,0,0,0,0,0,0,33,19,1,0,3,0.0,0.0,0.3,1,0,14,20,70.0,74,15,5,0,0
+Sun,Matchweek 18,Home,W 2–0,Watford,Manchester Utd,Y*,FW,90,1,0,1,1,4,0,0,0,43,21,0,1,2,1.1,0.4,0.0,3,1,18,30,60.0,115,21,21,0,1
+Thu,Matchweek 19,Away,D 1–1,Watford,Sheffield Utd,Y*,FW,80,0,0,0,0,1,1,0,0,28,9,0,0,1,0.1,0.1,0.0,0,0,9,19,47.4,63,7,30,0,0
+Sat,Matchweek 20,Home,W 3–0,Watford,Aston Villa,Y*,FW,90,2,0,1,1,4,2,1,0,54,17,3,0,3,1.5,0.7,0.4,4,2,24,35,68.6,102,26,76,0,2
+Wed,Matchweek 21,Home,W 2–1,Watford,Wolves,Y*,FW AM,90,0,0,0,0,0,0,1,0,39,27,0,0,1,0.0,0.0,0.3,2,0,19,32,59.4,97,15,21,0,2
+Sun,Matchweek 22,Away,W 3–0,Watford,Bournemouth,Y*,FW,90,1,0,0,0,3,2,1,0,51,20,0,1,1,0.2,0.2,0.2,4,0,23,39,59.0,140,25,28,0,0
+Sat,Matchweek 23,Home,D 0–0,Watford,Tottenham,Y*,FW,90,0,0,0,1,4,1,0,0,52,21,2,0,1,1.1,0.3,0.5,3,0,20,38,52.6,42,16,32,0,0
+Tue,Matchweek 24,Away,L 1–2,Watford,Aston Villa,Y*,FW,90,1,0,0,0,3,2,0,0,42,18,0,0,0,1.0,1.0,0.0,1,0,20,34,58.8,93,23,38,0,0
+Sat,Matchweek 25,Home,L 2–3,Watford,Everton,Y*,FW,90,0,1,0,0,0,0,0,0,38,20,1,0,0,0.0,0.0,0.2,1,1,20,31,64.5,110,13,12,1,1
+Sat,Matchweek 26,Away,D 1–1,Watford,Brighton,Y*,FW,90,0,0,0,0,1,1,0,0,40,21,1,2,0,0.0,0.0,0.0,0,0,13,28,46.4,67,16,26,0,1
+Sun,Matchweek 27,Away,L 0–3,Watford,Manchester Utd,Y*,FW,76,0,0,0,0,0,0,0,0,33,23,4,1,0,0.0,0.0,0.0,1,0,14,27,51.9,58,12,32,0,1
+Sat,Matchweek 28,Home,W 3–0,Watford,Liverpool,Y*,FW,90,1,1,0,0,3,2,0,0,41,19,0,1,0,0.4,0.4,0.3,3,1,11,36,30.6,73,23,25,1,1
+Sat,Matchweek 29,Away,L 0–1,Watford,Crystal Palace,Y*,FW,74,0,0,0,0,1,1,0,0,31,11,1,0,0,0.0,0.0,0.0,2,0,9,23,39.1,64,12,24,0,0

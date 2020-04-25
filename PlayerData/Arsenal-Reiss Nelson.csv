@@ -1,0 +1,12 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sun,Matchweek 1,Away,W 1–0,Arsenal,Newcastle Utd,Y,LW,71.0,0,0,0,0,0,0,1,0,53,24,0,0,0,0.0,0.0,0.1,4,0,38,45,84.4,180,50,117,3,4
+Sat,Matchweek 2,Home,W 2–1,Arsenal,Burnley,Y,LW,45.0,0,0,0,0,2,1,0,0,17,3,0,0,1,0.1,0.1,0.0,1,0,9,11,81.8,35,8,33,0,1
+Sun,Matchweek 5,Away,D 2–2,Arsenal,Watford,N,LW,19.0,0,0,0,0,1,1,0,0,12,8,2,0,1,0.1,0.1,0.0,0,0,4,5,80.0,42,7,46,0,1
+Mon,Matchweek 7,Away,D 1–1,Arsenal,Manchester Utd,N,RW,16.0,0,0,0,0,1,1,0,0,12,13,1,0,2,0.1,0.1,0.0,0,0,5,7,71.4,37,7,38,0,0
+Mon,Matchweek 16,Away,W 3–1,Arsenal,West Ham,N,RW,2.0,0,0,0,0,0,0,0,0,6,1,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,10,4,7,0,0
+Sat,Matchweek 18,Away,D 0–0,Arsenal,Everton,Y,RW,90.0,0,0,0,0,0,0,0,0,38,12,2,0,1,0.0,0.0,0.1,2,0,20,28,71.4,113,31,141,5,7
+Thu,Matchweek 19,Away,D 1–1,Arsenal,Bournemouth,Y,RW,82.0,0,0,0,0,3,0,0,0,53,17,1,1,2,0.2,0.2,0.1,7,1,31,40,77.5,116,42,201,2,4
+Sun,Matchweek 20,Home,L 1–2,Arsenal,Chelsea,Y,RW,86.0,0,0,0,0,0,0,0,0,40,19,1,1,2,0.0,0.0,0.0,0,0,21,25,84.0,87,31,175,1,4
+Wed,Matchweek 21,Home,W 2–0,Arsenal,Manchester Utd,N,RW,28.0,0,0,0,0,1,0,0,0,18,18,1,0,1,0.0,0.0,0.0,0,0,10,13,76.9,20,13,19,0,0
+Sat,Matchweek 22,Away,D 1–1,Arsenal,Crystal Palace,N,FW,,0,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,32,1,25,0,0
+Sat,Matchweek 29,Home,W 1–0,Arsenal,West Ham,N,RW,21.0,0,0,0,0,1,0,0,0,10,6,1,1,2,0.1,0.1,0.0,0,0,3,4,75.0,25,3,30,0,0

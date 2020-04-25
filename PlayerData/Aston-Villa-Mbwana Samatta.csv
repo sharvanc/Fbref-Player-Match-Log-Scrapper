@@ -1,0 +1,5 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 25,Away,L 1–2,Aston Villa,Bournemouth,Y,FW,90,1,0,0,0,3,2,0,0,26,18,1,0,1,0.4,0.4,0.0,1,0,12,14,85.7,36,13,12,0,0
+Sun,Matchweek 26,Home,L 2–3,Aston Villa,Tottenham,Y,FW,83,0,0,0,0,3,0,0,0,30,8,0,0,1,0.3,0.3,0.1,6,1,19,23,82.6,31,18,56,2,2
+Sat,Matchweek 27,Away,L 0–2,Aston Villa,Southampton,Y,FW,90,0,0,0,0,1,0,0,0,18,25,0,0,2,0.0,0.0,0.0,0,0,8,12,66.7,8,9,19,1,1
+Mon,Matchweek 29,Away,L 0–4,Aston Villa,Leicester City,Y,FW,90,0,0,0,0,1,0,0,0,25,23,2,0,1,0.3,0.3,0.0,1,0,10,12,83.3,18,14,25,0,2

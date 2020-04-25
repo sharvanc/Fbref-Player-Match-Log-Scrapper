@@ -1,0 +1,13 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sun,Matchweek 1,Away,D 0–0,Wolves,Leicester City,N,FW,14.0,0,0,0,0,0,0,0,0,7,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,28,8,17,2,3
+Mon,Matchweek 2,Home,D 1–1,Wolves,Manchester Utd,N,FW,,0,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Sun,Matchweek 4,Away,L 2–3,Wolves,Everton,Y,FW,68.0,0,0,0,0,3,1,0,0,16,9,1,0,0,0.3,0.3,0.0,0,0,7,10,70.0,11,10,18,0,0
+Sat,Matchweek 5,Home,L 2–5,Wolves,Chelsea,N,FW,45.0,1,0,0,0,3,1,0,0,14,17,2,1,0,1.3,1.3,0.0,1,0,4,8,50.0,0,6,11,0,0
+Sun,Matchweek 6,Away,D 1–1,Wolves,Crystal Palace,N,FW,14.0,0,0,0,0,0,0,0,0,1,14,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,4,0,0,0,0
+Sat,Matchweek 7,Home,W 2–0,Wolves,Watford,N,FW,10.0,0,0,0,0,0,0,0,0,7,5,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,4,0,0,0
+Sun,Matchweek 8,Away,W 2–0,Wolves,Manchester City,Y,FW,68.0,0,0,0,0,2,0,0,0,21,20,1,0,1,0.5,0.5,0.0,0,0,5,7,71.4,0,15,114,1,4
+Sat,Matchweek 9,Home,D 1–1,Wolves,Southampton,Y,FW LW,62.0,0,0,0,0,1,0,0,0,22,10,1,0,0,0.1,0.1,0.0,1,0,10,15,66.7,9,15,36,1,1
+Sun,Matchweek 12,Home,W 2–1,Wolves,Aston Villa,N,FW,,0,0,0,0,0,0,0,0,4,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,9,2,12,0,0
+Wed,Matchweek 15,Home,W 2–0,Wolves,West Ham,N,FW,6.0,1,0,0,0,1,1,0,0,4,5,0,1,0,0.1,0.1,0.0,0,0,1,1,100.0,0,3,0,0,0
+Sun,Matchweek 16,Away,D 2–2,Wolves,Brighton,N,FW,5.0,0,0,0,0,1,0,0,0,4,3,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,3,11,0,0
+Sat,Matchweek 18,Away,W 2–1,Wolves,Norwich City,N,FW,,0,0,0,0,0,0,0,0,5,2,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,4,4,12,1,1

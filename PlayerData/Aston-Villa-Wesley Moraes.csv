@@ -1,0 +1,22 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Away,L 1–3,Aston Villa,Tottenham,Y,FW,74,0,0,0,0,1,1,0,0,18,12,1,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,14,7,0,0
+Sat,Matchweek 2,Home,L 1–2,Aston Villa,Bournemouth,Y,FW,90,0,0,0,0,2,1,0,0,27,6,0,0,0,0.2,0.2,0.3,3,0,10,18,55.6,47,18,55,1,3
+Fri,Matchweek 3,Home,W 2–0,Aston Villa,Everton,Y,FW,90,1,0,0,0,2,1,0,0,33,16,1,0,0,0.5,0.5,0.1,3,0,18,22,81.8,56,27,60,1,2
+Sat,Matchweek 4,Away,L 0–1,Aston Villa,Crystal Palace,Y,FW,85,0,0,0,0,2,1,0,0,26,8,1,1,3,0.1,0.1,0.0,1,0,13,14,92.9,51,14,26,1,1
+Mon,Matchweek 5,Home,D 0–0,Aston Villa,West Ham,Y,FW,90,0,0,0,0,2,1,0,0,29,19,1,0,2,0.2,0.2,0.0,1,0,12,15,80.0,20,19,25,1,1
+Sun,Matchweek 6,Away,L 2–3,Aston Villa,Arsenal,Y,FW,90,1,0,0,0,2,2,0,0,27,8,2,0,0,0.2,0.2,0.0,0,0,14,18,77.8,53,19,35,1,1
+Sat,Matchweek 7,Home,D 2–2,Aston Villa,Burnley,Y,FW,88,0,0,0,0,0,0,0,0,17,17,0,0,0,0.0,0.0,0.1,1,0,9,10,90.0,20,10,41,0,0
+Sat,Matchweek 8,Away,W 5–1,Aston Villa,Norwich City,Y,FW,90,2,1,0,1,5,4,0,0,38,12,1,2,1,1.7,0.9,0.0,3,1,14,15,93.3,16,17,35,2,2
+Sat,Matchweek 9,Home,W 2–1,Aston Villa,Brighton,Y,FW,76,0,0,0,0,2,0,0,0,17,20,0,0,2,0.2,0.2,0.0,2,1,5,7,71.4,11,11,20,0,0
+Sat,Matchweek 10,Away,L 0–3,Aston Villa,Manchester City,Y,FW,71,0,0,0,0,1,0,0,0,22,7,0,0,0,0.1,0.1,0.0,0,0,13,18,72.2,11,14,18,0,0
+Sat,Matchweek 11,Home,L 1–2,Aston Villa,Liverpool,Y,FW,86,0,0,0,0,1,0,0,0,31,14,0,0,2,0.2,0.2,0.0,0,0,10,18,55.6,20,17,30,0,0
+Sun,Matchweek 12,Away,L 1–2,Aston Villa,Wolves,Y,FW,90,0,0,0,0,2,1,0,0,32,7,3,0,1,0.2,0.2,0.0,0,0,15,20,75.0,23,14,5,1,2
+Mon,Matchweek 13,Home,W 2–0,Aston Villa,Newcastle Utd,Y,FW,90,0,0,0,0,1,1,1,0,30,22,0,0,0,0.5,0.5,0.2,4,0,20,23,87.0,46,20,6,0,0
+Sun,Matchweek 14,Away,D 2–2,Aston Villa,Manchester Utd,Y,FW,90,0,0,0,0,2,1,0,0,30,20,0,0,0,0.1,0.1,0.0,0,0,14,20,70.0,39,18,35,1,1
+Wed,Matchweek 15,Away,L 1–2,Aston Villa,Chelsea,Y,FW,90,0,0,0,0,0,0,0,0,36,19,0,1,1,0.0,0.0,0.0,0,0,12,21,57.1,14,17,5,0,1
+Sun,Matchweek 16,Home,L 1–4,Aston Villa,Leicester City,Y,FW,90,0,0,0,0,1,0,1,0,31,25,1,0,1,0.1,0.1,0.1,2,0,18,25,72.0,22,15,35,0,0
+Sat,Matchweek 17,Away,L 0–2,Aston Villa,Sheffield Utd,Y,FW,69,0,0,0,0,1,0,0,0,30,15,0,0,1,0.1,0.1,0.0,0,0,13,20,65.0,9,18,9,2,2
+Sat,Matchweek 18,Home,L 1–3,Aston Villa,Southampton,Y,FW,90,0,0,0,0,4,0,0,0,34,14,0,0,0,0.3,0.3,0.1,3,0,16,23,69.6,28,20,54,2,2
+Thu,Matchweek 19,Home,W 1–0,Aston Villa,Norwich City,Y,FW,90,0,0,0,0,0,0,1,0,31,25,2,0,3,0.0,0.0,0.0,1,0,14,21,66.7,53,19,32,1,1
+Sat,Matchweek 20,Away,L 0–3,Aston Villa,Watford,Y,FW,90,0,0,0,0,1,1,0,0,27,19,1,0,0,0.3,0.3,0.0,0,0,17,20,85.0,21,14,9,0,1
+Wed,Matchweek 21,Away,W 2–1,Aston Villa,Burnley,Y,FW,71,1,0,0,0,3,2,0,0,34,8,0,0,1,0.4,0.4,0.0,2,1,13,19,68.4,47,18,23,0,2

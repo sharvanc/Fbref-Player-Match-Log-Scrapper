@@ -1,0 +1,7 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 4,Away,W 3–0,Liverpool,Burnley,N,RW,5.0,0,0,0,0,1,0,0,0,4,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,3,3,3,0,0
+Sat,Matchweek 5,Home,W 3–1,Liverpool,Newcastle Utd,N,CM,6.0,0,0,0,0,0,0,0,0,14,1,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,51,11,25,0,0
+Wed,Matchweek 15,Home,W 5–2,Liverpool,Everton,Y,RW,90.0,1,0,0,0,2,1,0,0,50,14,0,0,0,0.4,0.4,0.0,1,0,31,41,75.6,211,37,85,2,2
+Sat,Matchweek 16,Away,W 3–0,Liverpool,Bournemouth,N,LW,3.0,0,0,0,0,0,0,0,0,3,2,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,12,3,2,0,0
+Sat,Matchweek 17,Home,W 2–0,Liverpool,Watford,Y,RW,70.0,0,0,0,0,1,0,0,0,46,16,1,0,0,0.0,0.0,0.0,0,0,31,37,83.8,190,28,16,0,2
+Sat,Matchweek 22,Away,W 1–0,Liverpool,Tottenham,N,RW,,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.1,1,0,3,3,100.0,26,3,0,0,0

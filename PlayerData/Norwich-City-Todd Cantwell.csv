@@ -1,0 +1,30 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Fri,Matchweek 1,Away,L 1–4,Norwich City,Liverpool,Y,LW,90,0,0,0,0,0,0,0,0,47,19,1,0,0,0.0,0.0,0.1,3,0,27,34,79.4,141,40,67,1,2
+Sat,Matchweek 2,Home,W 3–1,Norwich City,Newcastle Utd,Y,RW,90,0,2,0,0,1,1,0,0,60,14,1,0,2,0.2,0.2,0.8,8,2,42,48,87.5,133,54,147,2,3
+Sat,Matchweek 3,Home,L 2–3,Norwich City,Chelsea,Y,LW WB,90,1,0,0,0,1,1,0,0,51,28,1,1,2,0.5,0.5,0.0,2,2,31,39,79.5,130,29,65,0,3
+Sat,Matchweek 4,Away,L 0–2,Norwich City,West Ham,Y,LW,78,0,0,0,0,2,0,0,0,47,15,1,0,1,0.8,0.8,0.0,0,0,23,30,76.7,96,32,143,3,3
+Sat,Matchweek 5,Home,W 3–2,Norwich City,Manchester City,Y,LW,90,1,0,0,0,1,1,1,0,40,24,1,1,0,0.9,0.9,0.1,1,0,16,22,72.7,92,24,94,0,2
+Sat,Matchweek 6,Away,L 0–2,Norwich City,Burnley,Y,LW,90,0,0,0,0,2,0,0,0,59,18,3,0,0,0.2,0.2,0.0,2,0,38,51,74.5,102,52,192,3,5
+Sat,Matchweek 7,Away,L 0–2,Norwich City,Crystal Palace,Y,LW,81,0,0,0,0,2,1,0,0,42,21,0,1,2,0.2,0.2,0.0,0,0,22,26,84.6,82,32,67,1,3
+Sat,Matchweek 8,Home,L 1–5,Norwich City,Aston Villa,Y,LW,80,0,0,0,0,4,2,0,0,52,18,1,1,2,0.3,0.3,0.1,6,0,31,41,75.6,203,37,225,5,6
+Sat,Matchweek 9,Away,D 0–0,Norwich City,Bournemouth,Y,CM,81,0,0,0,0,0,0,0,0,42,25,0,0,4,0.0,0.0,0.1,2,0,28,33,84.8,116,32,70,1,3
+Sun,Matchweek 10,Home,L 1–3,Norwich City,Manchester Utd,Y,CM,45,0,0,0,0,2,1,0,0,22,11,1,1,3,0.2,0.2,0.0,2,0,10,12,83.3,39,14,55,0,1
+Sat,Matchweek 11,Away,L 0–2,Norwich City,Brighton,N,CM,6,0,0,0,0,0,0,0,0,13,4,0,0,1,0.0,0.0,0.0,0,0,10,11,90.9,28,8,88,0,0
+Fri,Matchweek 12,Home,L 0–2,Norwich City,Watford,N,RW AM,28,0,0,0,0,0,0,0,0,37,4,0,0,0,0.0,0.0,0.0,4,0,24,34,70.6,111,28,112,3,5
+Sat,Matchweek 13,Away,W 2–0,Norwich City,Everton,Y,RW,80,1,0,0,0,2,1,0,0,48,21,2,1,5,0.6,0.6,0.1,5,0,16,27,59.3,81,28,119,3,4
+Sun,Matchweek 14,Home,D 2–2,Norwich City,Arsenal,Y,RW,83,1,0,0,0,3,1,0,0,42,14,0,0,1,0.4,0.4,0.3,3,0,21,28,75.0,63,25,64,2,2
+Wed,Matchweek 15,Away,L 1–2,Norwich City,Southampton,Y,RW LW,83,0,0,0,0,0,0,0,0,51,20,2,1,2,0.0,0.0,0.1,3,1,30,40,75.0,100,36,77,2,3
+Sun,Matchweek 16,Home,L 1–2,Norwich City,Sheffield Utd,N,LW,18,0,0,0,0,1,1,0,0,16,4,1,0,0,0.2,0.2,0.0,2,0,11,13,84.6,13,12,71,0,0
+Sat,Matchweek 17,Away,D 1–1,Norwich City,Leicester City,Y,LW,85,0,0,0,0,1,1,1,0,48,16,1,2,0,0.1,0.1,0.0,1,0,27,34,79.4,53,41,114,3,4
+Sat,Matchweek 18,Home,L 1–2,Norwich City,Wolves,Y,LW,86,1,0,0,0,1,1,0,0,54,22,4,0,1,0.1,0.1,0.0,0,0,36,43,83.7,143,34,148,0,2
+Thu,Matchweek 19,Away,L 0–1,Norwich City,Aston Villa,Y,LW RW,90,0,0,0,0,1,1,0,0,54,17,0,0,0,0.0,0.0,0.0,2,0,38,45,84.4,160,48,130,0,1
+Sat,Matchweek 20,Home,D 2–2,Norwich City,Tottenham,N,AM DM,4,0,0,0,0,0,0,0,0,11,11,0,0,2,0.0,0.0,0.0,0,0,3,5,60.0,0,8,27,1,1
+Wed,Matchweek 21,Home,D 1–1,Norwich City,Crystal Palace,Y,LW,78,1,0,0,0,4,2,0,0,42,13,3,0,7,0.6,0.6,0.1,2,0,19,24,79.2,33,24,86,0,1
+Sat,Matchweek 22,Away,L 0–4,Norwich City,Manchester Utd,Y,LW,90,0,0,0,0,2,1,0,0,50,21,3,1,2,0.1,0.1,0.0,2,0,32,37,86.5,60,29,84,1,1
+Sat,Matchweek 23,Home,W 1–0,Norwich City,Bournemouth,Y,LW,90,0,0,0,0,2,0,0,0,85,16,2,0,2,0.1,0.1,0.1,5,0,60,68,88.2,139,61,171,2,3
+Wed,Matchweek 24,Away,L 1–2,Norwich City,Tottenham,Y,LW,90,0,0,0,0,4,0,1,0,58,24,2,2,2,0.4,0.4,0.3,3,0,31,41,75.6,45,44,151,4,4
+Sat,Matchweek 25,Away,D 0–0,Norwich City,Newcastle Utd,Y,LW,67,0,0,0,0,0,0,1,0,51,17,2,1,1,0.0,0.0,0.1,3,0,31,40,77.5,171,45,167,1,2
+Sat,Matchweek 26,Home,L 0–1,Norwich City,Liverpool,Y,LW CM,90,0,0,0,0,1,0,0,0,53,31,4,0,3,0.0,0.0,0.0,2,0,26,34,76.5,98,40,189,3,5
+Sun,Matchweek 27,Away,L 0–3,Norwich City,Wolves,Y,LW AM,84,0,0,0,0,0,0,0,0,51,23,1,0,1,0.0,0.0,0.1,1,0,35,40,87.5,83,43,111,4,6
+Fri,Matchweek 28,Home,W 1–0,Norwich City,Leicester City,Y,LW,68,0,0,0,0,0,0,0,0,40,12,3,0,0,0.0,0.0,0.1,4,0,19,25,76.0,60,31,147,2,4
+Sat,Matchweek 29,Away,L 0–1,Norwich City,Sheffield Utd,Y,LW,45,0,0,0,0,0,0,0,0,22,15,1,1,2,0.0,0.0,0.0,0,0,10,15,66.7,9,17,59,2,3

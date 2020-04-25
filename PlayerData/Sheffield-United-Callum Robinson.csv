@@ -1,0 +1,17 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Away,D 1–1,Sheffield Utd,Bournemouth,Y,FW AM,90,0,0,0,0,2,1,0,0,28,21,1,2,0,0.2,0.2,0.0,0,0,12,13,92.3,20,19,44,1,1
+Sun,Matchweek 2,Home,W 1–0,Sheffield Utd,Crystal Palace,Y,FW,56,0,0,0,0,2,0,0,0,25,17,0,0,1,0.2,0.2,0.0,2,0,8,14,57.1,24,17,86,0,2
+Sat,Matchweek 3,Home,L 1–2,Sheffield Utd,Leicester City,Y,FW,54,0,0,0,0,0,0,0,0,23,15,0,1,0,0.0,0.0,0.0,1,0,13,18,72.2,36,21,36,2,2
+Sat,Matchweek 4,Away,D 2–2,Sheffield Utd,Chelsea,Y,FW,90,1,0,0,0,4,1,0,0,34,14,0,1,1,0.8,0.8,0.0,1,1,18,22,81.8,36,27,91,0,4
+Sat,Matchweek 5,Home,L 0–1,Sheffield Utd,Southampton,N,CM,6,0,0,0,0,0,0,0,0,2,1,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,11,2,0,0,0
+Sat,Matchweek 6,Away,W 2–0,Sheffield Utd,Everton,Y,FW,62,0,0,0,0,0,0,0,0,7,9,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,6,23,1,2
+Sat,Matchweek 7,Home,L 0–1,Sheffield Utd,Liverpool,Y,FW,60,0,0,0,0,2,0,0,0,19,16,0,0,0,0.2,0.2,0.0,0,0,9,12,75.0,33,9,54,0,0
+Sat,Matchweek 8,Away,D 0–0,Sheffield Utd,Watford,Y,FW,71,0,0,0,0,2,1,0,0,20,15,0,0,0,0.3,0.3,0.0,0,0,12,14,85.7,8,16,51,0,0
+Sat,Matchweek 10,Away,D 1–1,Sheffield Utd,West Ham,Y,FW,54,0,0,0,0,1,0,0,0,20,16,0,0,1,0.4,0.4,0.0,1,0,12,16,75.0,48,14,27,0,0
+Sat,Matchweek 12,Away,D 1–1,Sheffield Utd,Tottenham,N,FW,3,0,0,0,0,0,0,0,0,1,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,8,1,2
+Sun,Matchweek 13,Home,D 3–3,Sheffield Utd,Manchester Utd,N,AM,7,0,1,0,0,0,0,0,0,5,4,0,0,0,0.0,0.0,0.2,1,1,3,5,60.0,7,5,11,0,0
+Sun,Matchweek 14,Away,D 1–1,Sheffield Utd,Wolves,N,FW,4,0,0,0,0,0,0,0,0,4,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,25,4,17,1,1
+Sun,Matchweek 16,Away,W 2–1,Sheffield Utd,Norwich City,N,FW,25,0,0,0,0,0,0,1,0,10,9,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,8,22,1,1
+Sun,Matchweek 20,Away,L 0–2,Sheffield Utd,Manchester City,Y,FW,59,0,0,0,0,0,0,0,0,22,21,1,0,1,0.0,0.0,0.3,2,0,13,16,81.3,25,17,36,0,0
+Sat,Matchweek 23,Away,D 1–1,Sheffield Utd,Arsenal,N,AM,23,0,0,0,0,0,0,0,0,8,6,1,0,0,0.0,0.0,0.1,2,0,5,8,62.5,20,8,11,0,0
+Tue,Matchweek 24,Home,L 0–1,Sheffield Utd,Manchester City,N,AM CB,12,0,0,0,0,0,0,0,0,2,7,1,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,2,0,0

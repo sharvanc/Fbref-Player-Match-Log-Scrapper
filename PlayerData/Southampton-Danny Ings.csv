@@ -1,0 +1,30 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Away,L 0–3,Southampton,Burnley,Y,AM,66,0,0,0,0,0,0,0,0,25,37,1,0,2,0.0,0.0,0.0,1,0,11,18,61.1,52,15,57,0,0
+Sat,Matchweek 2,Home,L 1–2,Southampton,Liverpool,N,DM,26,1,0,0,0,3,1,0,0,10,8,0,0,2,1.0,1.0,0.0,1,0,3,4,75.0,9,7,14,1,1
+Sat,Matchweek 3,Away,W 2–0,Southampton,Brighton,Y,FW,84,0,1,0,0,1,0,0,0,33,36,1,0,4,0.0,0.0,0.1,3,2,13,20,65.0,34,21,43,1,2
+Sat,Matchweek 4,Home,D 1–1,Southampton,Manchester Utd,Y,FW,77,0,0,0,0,2,1,0,0,31,35,3,0,1,0.1,0.1,0.1,3,1,9,19,47.4,49,18,48,1,2
+Sat,Matchweek 5,Away,W 1–0,Southampton,Sheffield Utd,N,AM,16,0,0,0,0,0,0,0,0,10,10,1,0,1,0.0,0.0,0.0,0,0,5,8,62.5,33,9,19,1,1
+Fri,Matchweek 6,Home,L 1–3,Southampton,Bournemouth,N,FW,13,0,0,0,0,4,0,0,0,8,3,0,0,0,0.3,0.3,0.2,2,0,1,2,50.0,4,3,16,0,0
+Sat,Matchweek 7,Away,L 1–2,Southampton,Tottenham,Y,FW,83,1,0,0,0,2,1,0,0,24,19,3,1,0,0.8,0.8,0.0,1,0,9,14,64.3,5,14,18,0,0
+Sun,Matchweek 8,Home,L 1–4,Southampton,Chelsea,Y,FW,81,1,0,0,0,3,1,0,0,20,21,1,0,1,0.7,0.7,0.0,1,0,8,10,80.0,20,13,58,1,1
+Sat,Matchweek 9,Away,D 1–1,Southampton,Wolves,Y,FW AM,90,1,0,0,0,6,3,0,0,35,21,1,0,0,1.0,1.0,0.0,2,0,13,21,61.9,45,27,79,3,3
+Fri,Matchweek 10,Home,L 0–9,Southampton,Leicester City,Y,CM FW,45,0,0,0,0,1,0,0,0,22,21,2,0,2,0.0,0.0,0.0,1,0,8,12,66.7,5,15,52,2,3
+Sat,Matchweek 11,Away,L 1–2,Southampton,Manchester City,Y,FW,84,0,0,0,0,1,1,0,0,21,28,3,1,3,0.0,0.0,0.0,2,0,6,12,50.0,63,13,14,0,1
+Sat,Matchweek 12,Home,L 1–2,Southampton,Everton,Y,FW,90,1,0,0,0,1,1,0,0,25,28,1,0,4,0.8,0.8,0.0,1,0,6,13,46.2,50,16,32,0,1
+Sat,Matchweek 13,Away,D 2–2,Southampton,Arsenal,Y,FW,73,1,0,0,0,3,1,1,0,24,30,1,0,1,0.4,0.4,0.0,2,0,9,14,64.3,16,15,54,0,1
+Sat,Matchweek 14,Home,W 2–1,Southampton,Watford,Y,FW,90,1,0,0,0,2,2,0,0,39,19,0,1,1,0.4,0.4,0.6,3,0,16,26,61.5,24,24,35,2,3
+Wed,Matchweek 15,Home,W 2–1,Southampton,Norwich City,Y,FW,77,1,0,0,0,4,1,0,0,36,49,4,0,2,0.3,0.3,0.1,4,0,14,21,66.7,72,23,80,4,4
+Sun,Matchweek 16,Away,L 1–2,Southampton,Newcastle Utd,Y,FW,88,1,0,0,0,2,1,0,0,36,32,1,0,1,0.4,0.4,0.0,2,0,13,21,61.9,95,23,55,1,4
+Sat,Matchweek 17,Home,L 0–1,Southampton,West Ham,Y,FW,90,0,0,0,0,1,0,0,0,36,29,1,2,6,0.1,0.1,0.0,2,0,12,25,48.0,25,26,85,1,2
+Sat,Matchweek 18,Away,W 3–1,Southampton,Aston Villa,Y,FW,87,2,0,0,0,3,3,0,0,35,23,1,0,3,1.2,1.2,0.0,5,0,15,20,75.0,73,24,169,1,1
+Thu,Matchweek 19,Away,W 2–0,Southampton,Chelsea,N,FW,21,0,0,0,0,0,0,0,0,11,11,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,15,6,6,0,0
+Sat,Matchweek 20,Home,D 1–1,Southampton,Crystal Palace,Y,FW,90,1,0,0,0,6,2,0,0,29,19,0,0,1,0.7,0.7,0.0,1,0,13,17,76.5,65,17,83,0,0
+Wed,Matchweek 21,Home,W 1–0,Southampton,Tottenham,Y,FW,76,1,0,0,0,2,1,0,0,35,30,1,1,4,0.4,0.4,0.0,3,1,9,19,47.4,38,26,34,3,5
+Sat,Matchweek 22,Away,W 2–1,Southampton,Leicester City,Y,FW,90,1,0,0,0,9,5,1,0,44,20,2,0,1,1.8,1.8,0.0,5,1,12,23,52.2,37,28,85,2,4
+Sat,Matchweek 23,Home,L 2–3,Southampton,Wolves,Y,FW,90,0,0,0,0,1,0,0,0,25,27,0,1,2,0.1,0.1,0.0,0,0,9,15,60.0,51,14,23,1,4
+Tue,Matchweek 24,Away,W 2–0,Southampton,Crystal Palace,N,FW,20,0,0,0,0,0,0,0,0,6,9,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,20,3,0,0,0
+Sat,Matchweek 25,Away,L 0–4,Southampton,Liverpool,Y,FW,70,0,0,0,0,4,1,0,0,27,28,1,0,1,0.4,0.4,0.2,6,0,8,12,66.7,31,23,164,4,6
+Sat,Matchweek 26,Home,L 1–2,Southampton,Burnley,Y,FW LW,90,1,0,0,0,1,1,0,0,53,17,0,0,2,0.0,0.0,0.0,3,1,24,34,70.6,75,33,95,2,4
+Sat,Matchweek 27,Home,W 2–0,Southampton,Aston Villa,Y,FW,73,0,0,0,0,3,1,0,0,17,27,2,0,2,0.4,0.4,0.3,4,0,8,9,88.9,33,9,11,3,3
+Sat,Matchweek 28,Away,L 1–3,Southampton,West Ham,N,FW,36,0,0,0,0,1,0,0,0,15,5,0,0,0,0.1,0.1,0.0,1,0,7,10,70.0,87,11,24,2,2
+Sat,Matchweek 29,Home,L 0–1,Southampton,Newcastle Utd,Y,CM FW,90,0,0,0,0,1,0,0,0,24,40,4,0,3,0.0,0.0,0.0,1,0,6,14,42.9,33,18,49,0,1

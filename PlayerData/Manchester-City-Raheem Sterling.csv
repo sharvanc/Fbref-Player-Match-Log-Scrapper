@@ -1,0 +1,25 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Away,W 5–0,Manchester City,West Ham,Y,LW,90.0,3,0,0,0,4,4,1,0,51,18,3,1,1,1.4,1.4,0.0,1,1,28,35,80.0,125,41,168,2,6
+Sat,Matchweek 2,Home,D 2–2,Manchester City,Tottenham,Y,LW,90.0,1,0,0,0,5,1,1,0,51,19,3,0,1,0.6,0.6,0.2,5,0,30,38,78.9,102,42,251,1,2
+Sun,Matchweek 3,Away,W 3–1,Manchester City,Bournemouth,Y,LW,90.0,1,0,0,0,1,1,0,0,26,10,2,0,0,0.5,0.5,0.1,1,0,11,19,57.9,9,18,50,1,3
+Sat,Matchweek 4,Home,W 4–0,Manchester City,Brighton,Y,LW,90.0,0,0,0,0,0,0,0,0,41,20,2,0,2,0.0,0.0,0.5,2,0,28,34,82.4,53,37,149,3,4
+Sat,Matchweek 5,Away,L 2–3,Manchester City,Norwich City,Y,LW AM RW,90.0,0,0,0,0,6,1,0,0,63,14,0,0,3,0.3,0.3,0.9,6,0,34,46,73.9,134,53,309,3,6
+Sat,Matchweek 7,Away,W 3–1,Manchester City,Everton,Y,LW,86.0,1,0,0,0,4,2,0,0,63,17,1,0,1,1.2,1.2,0.3,4,0,33,47,70.2,115,49,246,2,7
+Sun,Matchweek 8,Home,L 0–2,Manchester City,Wolves,Y,LW,90.0,0,0,0,0,3,1,0,0,70,7,1,0,0,0.1,0.1,0.1,5,0,39,50,78.0,78,60,262,3,7
+Sat,Matchweek 9,Away,W 2–0,Manchester City,Crystal Palace,Y,LW,90.0,0,1,0,0,4,0,1,0,49,19,3,2,0,0.4,0.4,0.6,6,1,31,39,79.5,92,40,170,2,3
+Sat,Matchweek 10,Home,W 3–0,Manchester City,Aston Villa,Y,LW,76.0,1,0,0,0,4,1,0,0,57,12,2,0,2,0.5,0.5,0.8,4,0,30,40,75.0,100,45,271,2,4
+Sat,Matchweek 11,Home,W 2–1,Manchester City,Southampton,Y,LW,90.0,0,0,0,0,1,0,1,0,64,22,1,0,0,0.1,0.1,0.4,5,0,35,48,72.9,160,55,347,4,11
+Sun,Matchweek 12,Away,L 1–3,Manchester City,Liverpool,Y,LW,90.0,0,0,0,0,4,0,0,0,55,27,3,1,2,0.3,0.3,0.0,7,1,30,39,76.9,180,50,361,8,9
+Sat,Matchweek 13,Home,W 2–1,Manchester City,Chelsea,Y,LW,90.0,0,0,0,0,0,0,0,0,42,19,0,1,1,0.0,0.0,0.0,2,0,27,32,84.4,63,37,97,0,4
+Sat,Matchweek 14,Away,D 2–2,Manchester City,Newcastle Utd,Y,LW FW,90.0,1,0,0,0,4,3,0,0,66,7,0,0,0,0.8,0.8,0.1,4,0,44,53,83.0,131,48,164,0,1
+Tue,Matchweek 15,Away,W 4–1,Manchester City,Burnley,Y,LW,72.0,0,0,0,0,3,1,0,0,69,7,1,0,0,0.7,0.7,0.0,4,1,45,55,81.8,134,68,229,5,8
+Sat,Matchweek 16,Home,L 1–2,Manchester City,Manchester Utd,Y,LW,90.0,0,0,0,0,2,0,0,0,76,26,3,2,1,0.1,0.1,0.1,6,0,44,55,80.0,124,66,292,5,10
+Sun,Matchweek 17,Away,W 3–0,Manchester City,Arsenal,Y,RW LW,90.0,1,0,0,0,4,1,0,0,67,18,1,0,1,0.9,0.9,0.3,3,0,49,54,90.7,76,56,168,2,3
+Sat,Matchweek 18,Home,W 3–1,Manchester City,Leicester City,Y,LW,89.0,0,0,0,0,2,1,0,0,55,13,0,0,2,0.2,0.2,0.3,6,1,31,38,81.6,57,45,230,1,4
+Fri,Matchweek 19,Away,L 2–3,Manchester City,Wolves,Y,LW FW,90.0,2,0,0,1,4,2,0,0,33,19,1,1,0,1.5,0.6,0.0,3,1,12,19,63.2,24,27,100,1,5
+Sun,Matchweek 20,Home,W 2–0,Manchester City,Sheffield Utd,Y,LW FW,88.0,0,0,0,0,1,0,0,0,48,11,1,0,0,0.0,0.0,0.1,3,0,32,39,82.1,49,34,225,0,0
+Wed,Matchweek 21,Home,W 2–1,Manchester City,Everton,N,AM,,0,0,0,0,0,0,0,0,2,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,9,0,0,0,0
+Sat,Matchweek 23,Home,D 2–2,Manchester City,Crystal Palace,Y,RW CM,89.0,0,0,0,0,4,0,0,0,61,11,1,1,1,0.4,0.4,0.0,2,0,37,45,82.2,84,46,197,2,3
+Tue,Matchweek 24,Away,W 1–0,Manchester City,Sheffield Utd,Y,LW,90.0,0,0,0,0,5,1,0,0,64,10,1,0,2,0.5,0.5,0.0,7,1,35,45,77.8,141,48,314,0,0
+Sun,Matchweek 25,Away,L 0–2,Manchester City,Tottenham,Y,LW FW,84.0,0,0,0,0,1,0,1,0,54,10,1,1,0,0.2,0.2,1.0,2,0,37,43,86.0,86,41,134,1,2
+Sun,Matchweek 29,Away,L 0–2,Manchester City,Manchester Utd,Y,LW,90.0,0,0,0,0,3,2,0,0,55,10,0,0,1,0.4,0.4,0.0,1,0,30,37,81.1,107,45,177,2,5

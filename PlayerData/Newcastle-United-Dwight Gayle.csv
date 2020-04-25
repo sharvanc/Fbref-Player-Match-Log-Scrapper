@@ -1,0 +1,13 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 9,Away,L 0–1,Newcastle Utd,Chelsea,N,AM,5.0,0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Sun,Matchweek 10,Home,D 1–1,Newcastle Utd,Wolves,N,FW,,0,0,0,0,0,0,0,0,2,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Mon,Matchweek 13,Away,L 0–2,Newcastle Utd,Aston Villa,N,FW,18.0,0,0,0,0,0,0,0,0,2,3,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,13,0,0
+Sat,Matchweek 14,Home,D 2–2,Newcastle Utd,Manchester City,N,FW,21.0,0,0,0,0,0,0,0,0,5,4,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,1,8,0,0
+Sat,Matchweek 17,Away,L 0–1,Newcastle Utd,Burnley,N,FW WB,19.0,0,0,0,0,1,0,0,0,4,2,0,0,0,0.4,0.4,0.0,0,0,3,3,100.0,0,3,0,1,1
+Sat,Matchweek 18,Home,W 1–0,Newcastle Utd,Crystal Palace,N,FW,13.0,0,0,0,0,0,0,0,0,1,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,2,0,0,0,0
+Thu,Matchweek 19,Away,L 1–4,Newcastle Utd,Manchester Utd,Y,FW,59.0,0,0,0,0,1,0,0,0,16,17,2,0,1,0.3,0.3,0.0,1,0,10,12,83.3,55,10,30,0,0
+Sat,Matchweek 20,Home,L 1–2,Newcastle Utd,Everton,N,FW,16.0,0,0,0,0,0,0,0,0,5,2,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,1,0,0
+Sat,Matchweek 22,Away,D 1–1,Newcastle Utd,Wolves,Y,FW,28.0,0,1,0,0,0,0,0,0,12,2,0,1,0,0.0,0.0,0.2,2,1,9,10,90.0,11,5,5,0,0
+Sat,Matchweek 27,Away,L 0–1,Newcastle Utd,Crystal Palace,N,RW,19.0,0,0,0,0,0,0,0,0,5,3,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,1,3,0,0
+Sat,Matchweek 28,Home,D 0–0,Newcastle Utd,Burnley,Y,FW,90.0,0,0,0,0,4,1,1,0,31,12,1,0,0,0.3,0.3,0.0,2,0,11,17,64.7,50,17,87,0,1
+Sat,Matchweek 29,Away,W 1–0,Newcastle Utd,Southampton,Y,FW,90.0,0,0,0,0,5,3,0,0,20,3,0,0,2,1.3,1.3,0.0,1,0,5,11,45.5,20,6,23,0,0

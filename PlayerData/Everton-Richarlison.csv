@@ -1,0 +1,28 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Away,D 0–0,Everton,Crystal Palace,Y,RW,90,0,0,0,0,3,0,0,0,53,20,4,1,3,0.1,0.1,0.0,1,0,19,28,67.9,75,34,162,0,4
+Sat,Matchweek 2,Home,W 1–0,Everton,Watford,Y,RW,63,0,0,0,0,3,0,0,0,30,18,1,2,0,0.3,0.3,0.0,1,0,7,16,43.8,21,19,124,1,2
+Fri,Matchweek 3,Away,L 0–2,Everton,Aston Villa,Y,RW,78,0,0,0,0,1,0,0,0,45,28,2,1,1,0.0,0.0,0.0,2,0,22,32,68.8,79,33,159,3,3
+Sun,Matchweek 4,Home,W 3–2,Everton,Wolves,Y,RW,90,2,0,0,0,3,3,0,0,60,23,4,1,1,0.3,0.3,0.0,3,1,23,33,69.7,133,38,210,2,3
+Sun,Matchweek 5,Away,L 1–3,Everton,Bournemouth,Y,RW,81,0,1,0,0,4,0,1,0,44,23,4,0,2,0.2,0.2,0.5,3,1,18,25,72.0,115,33,126,4,4
+Sat,Matchweek 6,Home,L 0–2,Everton,Sheffield Utd,Y,RW WB,90,0,0,0,0,4,1,0,0,53,10,1,0,1,0.3,0.3,0.2,3,0,21,35,60.0,79,42,198,3,6
+Sat,Matchweek 7,Home,L 1–3,Everton,Manchester City,Y,RW LW,90,0,0,0,0,2,0,0,0,42,25,6,0,1,0.1,0.1,0.0,3,0,17,23,73.9,82,27,172,1,2
+Sat,Matchweek 8,Away,L 0–1,Everton,Burnley,Y,RW,90,0,0,0,0,2,1,0,0,43,18,2,1,2,0.0,0.0,0.1,1,0,14,24,58.3,47,29,154,1,4
+Sat,Matchweek 9,Home,W 2–0,Everton,West Ham,Y,FW,90,0,1,0,0,2,0,0,0,39,16,2,0,2,0.2,0.2,0.1,1,1,15,26,57.7,37,31,120,2,2
+Sat,Matchweek 10,Away,L 2–3,Everton,Brighton,Y,FW RW,90,0,0,0,0,2,0,0,0,28,31,1,0,0,0.2,0.2,0.3,4,1,13,17,76.5,33,24,99,1,1
+Sun,Matchweek 11,Home,D 1–1,Everton,Tottenham,Y,FW CM,90,0,0,0,0,4,2,0,0,51,23,2,0,0,0.4,0.4,0.0,1,0,18,26,69.2,56,38,96,2,4
+Sat,Matchweek 12,Away,W 2–1,Everton,Southampton,Y,LW,89,1,0,0,0,3,2,0,0,43,16,2,0,0,0.3,0.3,0.1,4,0,18,26,69.2,85,37,183,5,8
+Sat,Matchweek 13,Home,L 0–2,Everton,Norwich City,Y,LW CM,90,0,0,0,0,2,0,0,0,40,24,3,0,0,0.1,0.1,0.0,2,0,11,25,44.0,54,22,113,0,0
+Sun,Matchweek 14,Away,L 1–2,Everton,Leicester City,Y,LW FW,90,1,0,0,0,3,1,0,0,39,37,0,0,2,0.4,0.4,0.1,4,0,12,19,63.2,116,25,104,3,3
+Wed,Matchweek 15,Away,L 2–5,Everton,Liverpool,Y,FW LW,90,1,0,0,0,3,2,1,0,29,15,0,0,0,0.3,0.3,0.1,2,0,12,16,75.0,67,18,96,2,2
+Sat,Matchweek 16,Home,W 3–1,Everton,Chelsea,Y,FW,71,1,0,0,0,2,2,1,0,27,16,2,0,0,0.4,0.4,0.0,1,1,10,12,83.3,23,16,20,2,2
+Sun,Matchweek 17,Away,D 1–1,Everton,Manchester Utd,Y,FW CM,90,0,0,0,0,0,0,1,0,41,23,5,0,1,0.0,0.0,0.0,2,0,16,20,80.0,33,33,225,0,1
+Sat,Matchweek 18,Home,D 0–0,Everton,Arsenal,Y,CM FW,90,0,0,0,0,2,0,0,0,44,16,2,0,0,0.1,0.1,0.1,3,0,17,28,60.7,97,30,178,0,1
+Thu,Matchweek 19,Home,W 1–0,Everton,Burnley,Y,FW,86,0,0,0,0,2,0,0,0,37,18,0,0,0,0.1,0.1,0.0,2,0,19,28,67.9,95,37,187,2,4
+Sat,Matchweek 20,Away,W 2–1,Everton,Newcastle Utd,Y,CM FW,90,0,1,0,0,3,2,0,0,49,9,3,0,1,0.2,0.2,1.2,4,1,18,30,60.0,60,36,194,4,4
+Wed,Matchweek 21,Away,L 1–2,Everton,Manchester City,Y,FW LW,90,1,0,0,0,1,1,0,0,27,30,0,1,0,0.7,0.7,0.0,0,0,12,19,63.2,19,22,86,0,2
+Sat,Matchweek 22,Home,W 1–0,Everton,Brighton,Y,FW AM,90,1,0,0,0,5,2,0,0,47,34,3,1,1,0.5,0.5,0.3,4,1,27,34,79.4,119,34,163,3,5
+Sat,Matchweek 25,Away,W 3–2,Everton,Watford,Y,FW LW CM,90,0,0,0,0,1,0,0,0,36,10,2,0,0,0.2,0.2,0.4,2,0,13,21,61.9,24,27,147,3,6
+Sat,Matchweek 26,Home,W 3–1,Everton,Crystal Palace,Y,FW LW,90,1,0,0,0,5,3,0,0,43,16,1,0,2,0.2,0.2,0.5,3,1,14,26,53.8,24,31,127,2,3
+Sun,Matchweek 27,Away,L 2–3,Everton,Arsenal,Y,FW CM,90,1,0,0,0,4,2,1,0,53,21,0,1,4,0.7,0.7,0.3,4,0,22,35,62.9,79,42,255,3,4
+Sun,Matchweek 28,Home,D 1–1,Everton,Manchester Utd,Y,FW CM,90,0,0,0,0,4,0,0,0,40,33,2,1,3,0.9,0.9,0.4,2,0,17,27,63.0,80,23,48,3,3
+Sun,Matchweek 29,Away,L 0–4,Everton,Chelsea,Y,FW,90,0,0,0,0,3,2,0,0,27,33,2,0,1,0.1,0.1,0.4,2,0,9,13,69.2,29,22,93,2,4

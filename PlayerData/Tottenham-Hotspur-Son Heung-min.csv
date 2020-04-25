@@ -1,0 +1,22 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sun,Matchweek 3,Home,L 0–1,Tottenham,Newcastle Utd,Y,LW,90,0,0,0,0,6,2,0,0,74,11,0,0,1,0.2,0.2,0.0,6,0,53,59,89.8,86,62,171,5,9
+Sun,Matchweek 4,Away,D 2–2,Tottenham,Arsenal,Y,LW RW,79,0,0,0,0,2,2,0,0,45,23,1,0,0,0.1,0.1,0.2,5,1,21,28,75.0,94,34,189,2,4
+Sat,Matchweek 5,Home,W 4–0,Tottenham,Crystal Palace,Y,FW,90,2,0,0,0,6,3,0,0,42,22,3,1,0,0.4,0.4,0.0,4,2,25,30,83.3,72,28,103,0,0
+Sat,Matchweek 6,Away,L 1–2,Tottenham,Leicester City,Y,FW,90,0,1,0,0,3,1,0,0,45,17,0,0,1,0.3,0.3,0.7,5,1,28,31,90.3,92,37,113,3,7
+Sat,Matchweek 7,Home,W 2–1,Tottenham,Southampton,Y,FW,64,0,1,0,0,1,1,0,0,34,16,3,0,1,0.0,0.0,0.2,6,2,14,20,70.0,48,36,185,6,14
+Sat,Matchweek 8,Away,L 0–3,Tottenham,Brighton,Y,LW AM RW,73,0,0,0,0,0,0,0,0,29,27,2,0,0,0.0,0.0,0.0,1,0,15,20,75.0,32,26,83,2,5
+Sat,Matchweek 9,Home,D 1–1,Tottenham,Watford,N,RW,45,0,0,0,0,1,1,0,0,34,7,0,0,0,0.1,0.1,0.0,1,0,22,25,88.0,74,29,158,1,3
+Sun,Matchweek 10,Away,L 1–2,Tottenham,Liverpool,Y,LW,90,0,0,0,0,5,1,0,0,40,28,4,1,0,0.6,0.6,0.0,3,1,17,21,81.0,67,30,151,2,4
+Sun,Matchweek 11,Away,D 1–1,Tottenham,Everton,Y,RW FW,78,0,1,0,0,1,0,0,1,20,14,0,0,1,0.0,0.0,0.3,1,1,12,13,92.3,37,18,103,2,5
+Sat,Matchweek 12,Home,D 1–1,Tottenham,Sheffield Utd,Y,LW AM,90,1,0,0,0,7,3,0,0,48,18,1,0,1,0.5,0.5,0.1,8,0,27,30,90.0,90,43,114,6,9
+Sat,Matchweek 13,Away,W 3–2,Tottenham,West Ham,Y,LW,90,1,1,0,0,3,2,0,0,38,14,2,0,0,0.2,0.2,0.7,5,2,22,27,81.5,110,30,181,2,3
+Sat,Matchweek 14,Home,W 3–2,Tottenham,Bournemouth,Y,LW,88,0,2,0,0,2,0,0,0,39,31,5,0,2,0.2,0.2,1.3,4,2,25,27,92.6,139,29,157,0,0
+Wed,Matchweek 15,Away,L 1–2,Tottenham,Manchester Utd,Y,LW,90,0,0,0,0,1,0,0,0,52,19,0,1,3,0.1,0.1,0.0,2,0,36,44,81.8,118,41,168,7,8
+Sat,Matchweek 16,Home,W 5–0,Tottenham,Burnley,Y,LW,90,1,1,0,0,3,2,0,0,46,14,0,1,0,0.6,0.6,0.6,8,4,24,31,77.4,157,34,329,5,7
+Sun,Matchweek 17,Away,W 2–1,Tottenham,Wolves,Y,LW,90,0,0,0,0,1,1,0,0,35,19,1,0,0,0.2,0.2,0.0,1,0,21,25,84.0,97,30,96,3,3
+Sun,Matchweek 18,Home,L 0–2,Tottenham,Chelsea,Y,LW AM,61,0,0,0,0,1,0,0,1,22,20,0,0,1,0.1,0.1,0.0,0,0,13,19,68.4,23,14,29,0,0
+Sat,Matchweek 22,Home,L 0–1,Tottenham,Liverpool,Y,CM,90,0,0,0,0,4,1,0,0,26,19,2,1,0,0.4,0.4,0.0,3,0,15,16,93.8,68,20,155,1,3
+Sat,Matchweek 23,Away,D 0–0,Tottenham,Watford,Y,LW,90,0,0,0,0,4,2,0,0,43,26,0,0,0,0.2,0.2,0.3,5,0,30,33,90.9,109,41,170,5,7
+Wed,Matchweek 24,Home,W 2–1,Tottenham,Norwich City,Y,LW FW,90,1,0,0,0,5,1,0,0,48,32,0,1,0,1.1,1.1,0.0,1,1,24,31,77.4,54,33,116,0,2
+Sun,Matchweek 25,Home,W 2–0,Tottenham,Manchester City,Y,RW LW,90,1,0,0,0,2,2,0,0,38,16,1,3,0,0.2,0.2,0.0,0,0,15,24,62.5,71,26,203,0,1
+Sun,Matchweek 26,Away,W 3–2,Tottenham,Aston Villa,Y,FW,90,2,0,0,1,6,5,0,0,45,24,0,1,3,1.5,0.7,0.2,4,1,14,23,60.9,43,24,130,2,4

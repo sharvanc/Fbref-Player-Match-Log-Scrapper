@@ -1,0 +1,23 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sun,Matchweek 1,Home,W 4–0,Manchester Utd,Chelsea,Y,LW,86,2,0,1,1,2,1,0,0,42,23,2,0,1,1.1,0.4,0.0,1,1,14,23,60.9,74,37,223,3,6
+Mon,Matchweek 2,Away,D 1–1,Manchester Utd,Wolves,Y,LW,89,0,1,0,0,2,0,0,0,47,26,1,0,1,0.1,0.1,0.2,4,1,32,40,80.0,165,32,120,1,1
+Sat,Matchweek 3,Home,L 1–2,Manchester Utd,Crystal Palace,Y,LW FW,90,0,0,0,1,3,1,0,0,52,7,0,1,1,0.9,0.1,0.1,5,1,24,39,61.5,106,44,188,2,4
+Sat,Matchweek 4,Away,D 1–1,Manchester Utd,Southampton,Y,FW,90,0,0,0,0,5,2,0,0,40,18,0,0,0,1.0,1.0,0.1,3,0,14,20,70.0,39,30,92,3,8
+Sat,Matchweek 5,Home,W 1–0,Manchester Utd,Leicester City,Y,FW,90,1,0,1,1,1,0,0,0,31,17,0,0,0,0.8,0.0,0.0,2,1,11,17,64.7,21,27,63,4,5
+Sun,Matchweek 6,Away,L 0–2,Manchester Utd,West Ham,Y,FW,61,0,0,0,0,0,0,0,0,22,14,0,0,0,0.0,0.0,0.0,1,0,13,19,68.4,15,16,111,3,4
+Mon,Matchweek 7,Home,D 1–1,Manchester Utd,Arsenal,Y,FW,90,0,1,0,0,3,1,1,0,35,16,1,2,1,0.3,0.3,0.1,2,1,16,23,69.6,34,20,53,0,1
+Sun,Matchweek 8,Away,L 0–1,Manchester Utd,Newcastle Utd,Y,FW,90,0,0,0,0,0,0,0,0,24,7,0,0,1,0.0,0.0,0.0,3,0,14,20,70.0,21,18,88,0,1
+Sun,Matchweek 9,Home,D 1–1,Manchester Utd,Liverpool,Y,FW,84,1,0,0,0,2,1,0,0,23,16,0,0,0,0.5,0.5,0.0,3,0,11,15,73.3,35,21,120,4,7
+Sun,Matchweek 10,Away,W 3–1,Manchester Utd,Norwich City,Y,LW,90,1,1,0,1,5,3,0,0,64,8,1,0,0,1.4,0.6,0.8,4,1,36,43,83.7,99,51,288,3,6
+Sat,Matchweek 11,Away,L 0–1,Manchester Utd,Bournemouth,Y,LW,90,0,0,0,0,1,0,0,0,31,7,0,0,2,0.0,0.0,0.1,2,0,21,26,80.8,72,26,154,4,4
+Sun,Matchweek 12,Home,W 3–1,Manchester Utd,Brighton,Y,LW,90,1,0,0,0,7,3,1,0,51,10,1,1,0,1.2,1.2,0.4,5,0,23,27,85.2,182,35,311,2,5
+Sun,Matchweek 13,Away,D 3–3,Manchester Utd,Sheffield Utd,Y,AM LW FW,90,1,1,0,0,3,1,0,0,39,14,1,0,0,0.5,0.5,0.4,3,1,19,23,82.6,68,31,216,3,5
+Sun,Matchweek 14,Home,D 2–2,Manchester Utd,Aston Villa,Y,LW AM,90,0,0,0,0,2,0,0,0,54,18,2,0,0,0.4,0.4,0.1,4,1,32,40,80.0,155,40,197,2,6
+Wed,Matchweek 15,Home,W 2–1,Manchester Utd,Tottenham,Y,LW FW,90,2,0,1,1,5,3,0,0,52,11,0,1,2,1.0,0.2,0.0,3,2,22,30,73.3,99,40,354,4,11
+Sat,Matchweek 16,Away,W 2–1,Manchester Utd,Manchester City,Y,LW,90,1,0,1,1,2,0,0,0,27,27,0,0,1,1.0,0.2,0.1,4,2,14,18,77.8,132,19,139,2,4
+Sun,Matchweek 17,Home,D 1–1,Manchester Utd,Everton,Y,LW FW,90,0,0,0,0,6,3,0,0,45,11,0,0,0,0.4,0.4,0.0,2,0,17,25,68.0,79,36,234,4,9
+Sun,Matchweek 18,Away,L 0–2,Manchester Utd,Watford,Y,LW,90,0,0,0,0,2,2,0,0,46,12,0,0,0,0.4,0.4,0.1,7,0,30,39,76.9,135,31,217,3,4
+Thu,Matchweek 19,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,LW,63,1,0,0,0,4,1,0,0,48,7,0,1,0,0.2,0.2,0.0,3,0,27,34,79.4,77,30,93,0,1
+Sat,Matchweek 20,Away,W 2–0,Manchester Utd,Burnley,Y,LW,90,1,0,0,0,5,2,0,0,43,5,0,0,1,0.9,0.9,0.0,2,1,23,30,76.7,48,31,374,4,6
+Wed,Matchweek 21,Away,L 0–2,Manchester Utd,Arsenal,Y,LW FW,90,0,0,0,0,3,2,0,0,31,20,0,0,0,0.3,0.3,0.0,1,0,15,21,71.4,44,23,75,1,2
+Sat,Matchweek 22,Home,W 4–0,Manchester Utd,Norwich City,Y,LW,59,2,0,1,1,2,2,0,0,43,5,1,0,0,1.2,0.4,0.0,1,1,24,33,72.7,121,39,150,4,6

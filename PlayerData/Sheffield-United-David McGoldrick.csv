@@ -1,0 +1,22 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Away,D 1–1,Sheffield Utd,Bournemouth,Y,FW,63,0,0,0,0,2,1,0,0,35,21,1,0,2,0.2,0.2,0.0,0,0,17,22,77.3,32,25,43,2,2
+Sun,Matchweek 2,Home,W 1–0,Sheffield Utd,Crystal Palace,Y,FW,89,0,0,0,0,2,1,0,0,38,25,3,0,1,0.5,0.5,0.0,0,0,17,22,77.3,24,27,64,0,3
+Sat,Matchweek 3,Home,L 1–2,Sheffield Utd,Leicester City,Y,FW,54,0,0,0,0,0,0,0,0,20,16,2,0,0,0.0,0.0,0.0,0,0,11,16,68.8,48,13,28,2,2
+Sat,Matchweek 4,Away,D 2–2,Sheffield Utd,Chelsea,N,FW CM,27,0,0,0,0,0,0,0,0,10,11,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,23,8,1,0,0
+Sat,Matchweek 5,Home,L 0–1,Sheffield Utd,Southampton,Y,FW AM,90,0,0,0,0,6,3,0,0,38,22,2,0,0,0.9,0.9,0.0,1,0,19,22,86.4,61,31,83,4,4
+Mon,Matchweek 9,Home,W 1–0,Sheffield Utd,Arsenal,Y,FW,78,0,0,0,0,0,0,1,0,32,29,0,0,1,0.0,0.0,0.0,1,0,16,21,76.2,24,21,73,0,1
+Sat,Matchweek 10,Away,D 1–1,Sheffield Utd,West Ham,Y,FW AM,81,0,0,0,0,3,2,0,0,35,11,0,0,0,0.7,0.7,0.2,6,0,18,25,72.0,44,27,78,4,5
+Sat,Matchweek 11,Home,W 3–0,Sheffield Utd,Burnley,Y,FW,75,0,0,0,0,2,0,0,0,38,24,4,0,3,0.2,0.2,0.3,2,1,18,25,72.0,52,18,93,1,1
+Sat,Matchweek 12,Away,D 1–1,Sheffield Utd,Tottenham,Y,FW,90,0,1,0,0,1,1,0,0,50,20,3,0,3,0.0,0.0,0.2,6,2,29,34,85.3,143,36,109,2,2
+Sun,Matchweek 13,Home,D 3–3,Sheffield Utd,Manchester Utd,Y,FW,78,0,0,0,0,3,3,0,0,33,21,2,1,1,0.3,0.3,0.0,0,0,16,24,66.7,39,27,61,2,2
+Sun,Matchweek 14,Away,D 1–1,Sheffield Utd,Wolves,Y,FW,73,0,0,0,0,5,2,0,0,40,21,2,0,1,0.4,0.4,0.0,1,0,16,24,66.7,58,26,34,0,2
+Thu,Matchweek 15,Home,L 0–2,Sheffield Utd,Newcastle Utd,N,AM DM,18,0,0,0,0,1,0,0,0,15,6,3,0,0,0.2,0.2,0.0,0,0,8,10,80.0,19,9,8,0,1
+Sun,Matchweek 16,Away,W 2–1,Sheffield Utd,Norwich City,Y,FW,83,0,0,0,0,3,1,0,0,48,25,1,2,0,0.5,0.5,0.1,3,0,23,35,65.7,94,32,67,1,1
+Sat,Matchweek 17,Home,W 2–0,Sheffield Utd,Aston Villa,Y,FW,90,0,1,0,0,3,1,0,0,57,24,3,0,2,0.8,0.8,0.4,2,1,28,39,71.8,61,24,86,0,1
+Sat,Matchweek 18,Away,W 1–0,Sheffield Utd,Brighton,Y,FW,90,0,0,0,0,3,0,1,0,41,23,2,0,1,0.8,0.8,0.0,1,0,20,24,83.3,58,27,79,1,1
+Thu,Matchweek 19,Home,D 1–1,Sheffield Utd,Watford,Y,FW,90,0,0,0,0,0,0,0,0,46,31,2,0,2,0.0,0.0,0.1,2,0,22,31,71.0,85,22,21,2,3
+Sun,Matchweek 20,Away,L 0–2,Sheffield Utd,Manchester City,N,FW,31,0,0,0,0,0,0,0,0,15,10,1,0,0,0.0,0.0,0.0,1,0,9,13,69.2,10,10,49,0,0
+Thu,Matchweek 21,Away,L 0–2,Sheffield Utd,Liverpool,Y,FW,66,0,0,0,0,1,1,0,0,27,13,1,0,0,0.0,0.0,0.0,0,0,16,20,80.0,58,15,19,0,0
+Fri,Matchweek 22,Home,W 1–0,Sheffield Utd,West Ham,Y,FW,60,0,0,0,0,1,0,0,0,15,13,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,11,16,1,1
+Sat,Matchweek 27,Home,D 1–1,Sheffield Utd,Brighton,N,FW,16,0,0,0,0,0,0,0,0,10,2,0,0,0,0.0,0.0,0.3,2,0,7,8,87.5,33,14,8,4,4
+Sat,Matchweek 29,Home,W 1–0,Sheffield Utd,Norwich City,N,FW,19,0,0,0,0,0,0,0,0,12,13,1,0,1,0.0,0.0,0.0,0,0,3,7,42.9,0,7,36,1,2

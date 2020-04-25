@@ -1,0 +1,27 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Fri,Matchweek 1,Home,W 4–1,Liverpool,Norwich City,N,LW,16,0,0,0,0,0,0,0,0,12,3,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,16,14,106,1,1
+Sat,Matchweek 2,Away,W 2–1,Liverpool,Southampton,Y,LW RW,90,1,1,0,0,2,2,0,0,46,20,1,0,0,0.2,0.2,0.9,5,1,20,28,71.4,108,35,92,1,4
+Sat,Matchweek 3,Home,W 3–1,Liverpool,Arsenal,Y,LW,77,0,0,0,0,3,1,0,0,55,15,5,1,0,0.2,0.2,0.3,6,0,34,38,89.5,130,45,256,2,2
+Sat,Matchweek 4,Away,W 3–0,Liverpool,Burnley,Y,LW,85,1,0,0,0,2,1,0,0,39,12,1,3,1,0.4,0.4,0.0,4,0,24,29,82.8,79,32,93,3,4
+Sat,Matchweek 5,Home,W 3–1,Liverpool,Newcastle Utd,Y,LW FW,90,2,0,0,0,4,2,0,0,60,15,0,1,0,1.1,1.1,0.2,3,0,36,47,76.6,96,42,84,2,2
+Sun,Matchweek 6,Away,W 2–1,Liverpool,Chelsea,Y,LW,71,0,0,0,0,1,0,0,0,34,29,2,2,2,0.2,0.2,0.0,1,1,21,25,84.0,81,29,68,4,4
+Sat,Matchweek 7,Away,W 1–0,Liverpool,Sheffield Utd,Y,LW RW,90,0,0,0,0,4,1,0,0,51,15,0,0,4,0.8,0.8,0.0,0,0,25,37,67.6,94,37,72,2,3
+Sat,Matchweek 8,Home,W 2–1,Liverpool,Leicester City,Y,RW,90,1,0,0,0,3,3,0,0,57,37,3,1,5,0.6,0.6,0.1,2,1,33,39,84.6,142,33,181,1,1
+Sun,Matchweek 9,Away,D 1–1,Liverpool,Manchester Utd,Y,RW,90,0,0,0,0,0,0,0,0,35,12,1,0,1,0.0,0.0,0.2,3,0,21,23,91.3,65,29,83,3,3
+Sun,Matchweek 10,Home,W 2–1,Liverpool,Tottenham,Y,LW FW,90,0,0,0,0,2,0,0,0,45,13,2,0,0,0.5,0.5,0.1,5,1,26,31,83.9,82,38,98,2,3
+Sat,Matchweek 11,Away,W 2–1,Liverpool,Aston Villa,Y,LW RW,90,1,1,0,0,6,3,1,0,60,11,2,0,0,0.5,0.5,0.5,5,1,33,44,75.0,140,44,261,0,0
+Sun,Matchweek 12,Home,W 3–1,Liverpool,Manchester City,Y,LW CM FW,90,1,0,0,0,1,1,0,0,43,43,4,1,1,0.3,0.3,0.2,2,0,23,31,74.2,120,34,197,3,5
+Sat,Matchweek 13,Away,W 2–1,Liverpool,Crystal Palace,Y,RW LW,90,1,0,0,0,2,1,0,0,38,21,0,1,1,0.3,0.3,0.1,3,0,23,30,76.7,77,30,111,2,2
+Sat,Matchweek 14,Home,W 2–1,Liverpool,Brighton,Y,LW,90,0,0,0,0,2,2,0,0,40,19,3,0,2,0.6,0.6,0.4,3,0,25,30,83.3,73,26,248,5,5
+Wed,Matchweek 15,Home,W 5–2,Liverpool,Everton,Y,LW,90,1,2,0,0,3,1,0,0,32,18,1,0,1,0.7,0.7,1.2,4,3,14,18,77.8,102,29,184,4,6
+Sat,Matchweek 17,Home,W 2–0,Liverpool,Watford,Y,LW,90,0,1,0,0,2,1,0,0,60,12,1,0,0,0.1,0.1,0.2,3,1,30,43,69.8,197,43,247,3,6
+Thu,Matchweek 19,Away,W 4–0,Liverpool,Leicester City,Y,LW,90,0,1,0,0,3,1,0,0,52,21,0,0,1,0.9,0.9,0.2,2,1,33,38,86.8,109,38,208,2,5
+Sun,Matchweek 20,Home,W 1–0,Liverpool,Wolves,Y,LW,90,1,0,0,0,2,1,0,0,44,17,1,0,0,0.3,0.3,0.1,3,0,29,33,87.9,71,32,81,2,2
+Thu,Matchweek 21,Home,W 2–0,Liverpool,Sheffield Utd,Y,LW,78,1,0,0,0,4,3,0,0,51,8,0,0,1,1.2,1.2,0.4,6,1,35,40,87.5,156,46,254,2,4
+Sat,Matchweek 22,Away,W 1–0,Liverpool,Tottenham,Y,LW,81,0,0,0,0,2,1,0,0,54,18,4,0,1,0.2,0.2,0.0,1,0,30,40,75.0,138,46,246,3,3
+Sun,Matchweek 23,Home,W 2–0,Liverpool,Manchester Utd,Y,LW,83,0,0,0,0,4,1,0,0,55,18,1,0,0,0.7,0.7,0.2,4,0,29,34,85.3,136,39,205,1,3
+Thu,Matchweek 24,Away,W 2–1,Liverpool,Wolves,Y,LW,33,0,0,0,0,0,0,0,0,21,5,1,0,0,0.0,0.0,0.1,1,0,19,19,100.0,62,13,32,0,1
+Sat,Matchweek 26,Away,W 1–0,Liverpool,Norwich City,N,LW,30,1,0,0,0,1,1,1,0,20,4,0,0,0,0.1,0.1,0.0,1,0,14,15,93.3,125,18,121,0,2
+Mon,Matchweek 27,Home,W 3–2,Liverpool,West Ham,Y,LW,90,1,0,0,0,3,1,0,0,68,15,3,0,1,0.8,0.8,0.0,3,0,35,46,76.1,144,57,239,4,7
+Sat,Matchweek 28,Away,L 0–3,Liverpool,Watford,Y,LW RW,90,0,0,0,0,0,0,0,0,37,18,1,0,0,0.0,0.0,0.0,1,0,22,31,71.0,94,33,56,2,3
+Sat,Matchweek 29,Home,W 2–1,Liverpool,Bournemouth,Y,LW,90,1,1,0,0,3,1,0,0,69,11,2,0,1,0.5,0.5,0.1,4,1,37,52,71.2,98,49,188,3,7

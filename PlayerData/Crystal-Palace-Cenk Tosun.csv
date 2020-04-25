@@ -1,0 +1,11 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 6,Home,L 0–2,Everton,Sheffield Utd,N,FW LW,35,0,0,0,0,1,0,0,0,5,1,0,0,0,0.1,0.1,0.0,0,0,0,3,0.0,0,2,1,0,1
+Sun,Matchweek 11,Home,D 1–1,Everton,Tottenham,N,FW CM,22,1,0,0,0,1,1,0,0,7,2,0,0,0,0.2,0.2,0.0,0,0,1,4,25.0,0,5,4,0,1
+Sat,Matchweek 12,Away,W 2–1,Everton,Southampton,Y,FW,74,0,0,0,0,3,0,0,0,38,11,0,0,1,0.3,0.3,0.1,4,0,20,25,80.0,45,22,39,1,2
+Sat,Matchweek 13,Home,L 0–2,Everton,Norwich City,Y,FW,90,0,0,0,0,4,2,0,0,25,22,1,0,0,0.2,0.2,0.0,2,0,10,14,71.4,30,13,4,0,1
+Sat,Matchweek 18,Home,D 0–0,Everton,Arsenal,N,FW CM,69,0,0,0,0,2,0,0,0,21,18,1,0,1,0.1,0.1,0.0,1,0,11,16,68.8,45,11,33,0,0
+Sat,Matchweek 22,Home,D 1–1,Crystal Palace,Arsenal,N,FW,22,0,0,0,0,0,0,0,0,11,7,0,0,2,0.0,0.0,0.0,0,0,3,7,42.9,1,7,5,0,0
+Sat,Matchweek 23,Away,D 2–2,Crystal Palace,Manchester City,Y,FW,81,1,0,0,0,2,2,0,0,35,35,1,0,1,0.4,0.4,0.0,1,0,18,26,69.2,98,32,84,4,4
+Tue,Matchweek 24,Home,L 0–2,Crystal Palace,Southampton,Y,FW,69,0,0,0,0,2,0,0,0,14,19,0,0,0,0.4,0.4,0.0,0,0,5,11,45.5,16,10,35,1,1
+Sat,Matchweek 27,Home,W 1–0,Crystal Palace,Newcastle Utd,N,FW,1,0,0,0,0,0,0,0,0,5,2,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,8,3,2,1,1
+Sat,Matchweek 28,Away,W 1–0,Crystal Palace,Brighton,N,FW,3,0,0,0,0,0,0,0,0,4,7,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,14,4,52,1,2

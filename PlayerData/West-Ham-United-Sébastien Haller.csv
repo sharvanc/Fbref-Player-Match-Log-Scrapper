@@ -1,0 +1,28 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Home,L 0–5,West Ham,Manchester City,Y,FW,90,0,0,0,0,1,1,0,0,44,39,3,2,3,0.1,0.1,0.0,0,0,32,34,94.1,29,32,18,2,2
+Sat,Matchweek 3,Away,W 3–1,West Ham,Watford,Y,FW,90,2,0,0,0,3,3,0,0,37,20,1,1,0,1.5,1.5,0.0,1,1,21,28,75.0,57,23,38,0,0
+Sat,Matchweek 4,Home,W 2–0,West Ham,Norwich City,Y,FW,90,1,0,0,0,4,2,0,0,50,25,2,0,2,0.7,0.7,0.0,1,0,25,36,69.4,41,34,81,3,4
+Mon,Matchweek 5,Away,D 0–0,West Ham,Aston Villa,Y,FW,90,0,0,0,0,2,0,0,0,52,24,1,0,4,0.1,0.1,0.2,4,0,29,37,78.4,120,28,119,0,0
+Sun,Matchweek 6,Home,W 2–0,West Ham,Manchester Utd,Y,FW,90,0,0,0,0,1,0,0,0,41,19,2,1,1,0.1,0.1,0.0,2,0,23,30,76.7,94,23,31,0,0
+Sat,Matchweek 7,Away,D 2–2,West Ham,Bournemouth,Y,FW,90,0,1,0,0,2,1,0,0,49,9,0,0,1,0.2,0.2,0.5,8,1,31,42,73.8,93,28,52,1,1
+Sat,Matchweek 8,Home,L 1–2,West Ham,Crystal Palace,Y,FW,90,1,0,0,0,3,2,1,0,32,21,1,1,1,0.7,0.7,0.0,0,0,14,21,66.7,24,11,11,0,0
+Sat,Matchweek 9,Away,L 0–2,West Ham,Everton,Y,FW,90,0,0,0,0,3,1,0,0,44,17,0,0,0,0.1,0.1,0.0,1,0,20,27,74.1,39,29,58,0,0
+Sat,Matchweek 10,Home,D 1–1,West Ham,Sheffield Utd,Y,FW,90,0,0,0,0,0,0,0,0,25,8,0,0,1,0.0,0.0,0.1,3,0,13,20,65.0,41,18,27,0,1
+Sat,Matchweek 11,Home,L 2–3,West Ham,Newcastle Utd,Y,FW,90,0,0,0,0,4,2,0,0,45,13,1,0,0,0.3,0.3,0.0,1,1,28,32,87.5,51,21,15,0,0
+Sat,Matchweek 12,Away,L 0–3,West Ham,Burnley,Y,FW,90,0,0,0,0,1,1,0,0,31,10,0,0,0,0.0,0.0,0.0,2,0,19,24,79.2,31,14,8,0,2
+Sat,Matchweek 13,Home,L 2–3,West Ham,Tottenham,Y,FW,90,0,0,0,0,5,2,0,0,45,21,1,0,3,0.4,0.4,0.0,1,0,18,31,58.1,23,21,10,0,1
+Sat,Matchweek 14,Away,W 1–0,West Ham,Chelsea,N,FW,14,0,0,0,0,0,0,0,0,7,11,0,0,1,0.0,0.0,0.0,0,0,4,6,66.7,10,3,4,0,0
+Wed,Matchweek 15,Away,L 0–2,West Ham,Wolves,Y,FW,80,0,0,0,0,0,0,0,0,24,24,0,0,0,0.0,0.0,0.0,0,0,11,19,57.9,41,23,61,4,4
+Mon,Matchweek 16,Home,L 1–3,West Ham,Arsenal,N,AM,20,0,0,0,0,0,0,0,0,6,13,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,2,2,3,0,0
+Sat,Matchweek 17,Away,W 1–0,West Ham,Southampton,Y,FW,79,1,0,0,0,3,3,0,0,40,32,1,1,2,0.4,0.4,0.2,4,0,20,32,62.5,99,25,72,3,3
+Thu,Matchweek 19,Away,L 1–2,West Ham,Crystal Palace,Y,FW,75,0,0,0,0,1,0,0,0,32,16,2,0,0,0.1,0.1,0.0,0,0,15,22,68.2,48,19,16,0,2
+Sat,Matchweek 20,Home,L 1–2,West Ham,Leicester City,Y,FW,55,0,0,0,0,3,0,0,0,27,14,0,0,0,0.2,0.2,0.0,1,0,10,21,47.6,36,13,19,1,1
+Wed,Matchweek 21,Home,W 4–0,West Ham,Bournemouth,Y,FW,90,1,0,0,0,2,1,0,0,37,33,0,0,0,0.1,0.1,0.0,1,0,18,30,60.0,73,22,129,1,3
+Fri,Matchweek 22,Away,L 0–1,West Ham,Sheffield Utd,Y,FW,90,0,0,0,0,2,0,0,0,60,7,1,0,1,0.1,0.1,0.0,1,0,23,47,48.9,69,25,31,2,3
+Sat,Matchweek 23,Home,D 1–1,West Ham,Everton,Y,FW,90,0,0,0,0,5,2,0,0,50,27,0,0,2,0.7,0.7,0.1,1,0,18,30,60.0,55,23,44,0,0
+Wed,Matchweek 24,Away,L 1–4,West Ham,Leicester City,Y,FW,90,0,0,0,0,0,0,0,0,41,34,0,0,2,0.0,0.0,0.2,4,2,17,32,53.1,34,15,21,1,1
+Wed,Matchweek 18,Home,L 0–2,West Ham,Liverpool,Y,FW,90,0,0,0,0,0,0,0,0,42,25,0,1,4,0.0,0.0,0.0,1,0,21,29,72.4,107,23,36,0,0
+Sat,Matchweek 25,Home,D 3–3,West Ham,Brighton,Y,FW,90,0,0,0,0,0,0,0,0,36,33,0,1,0,0.0,0.0,0.1,3,0,17,26,65.4,60,22,69,2,3
+Mon,Matchweek 27,Away,L 2–3,West Ham,Liverpool,N,FW,25,0,0,0,0,1,1,0,0,17,10,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,10,7,2,0,0
+Sat,Matchweek 28,Home,W 3–1,West Ham,Southampton,Y,FW,90,1,0,0,0,4,2,0,0,45,26,0,0,5,0.9,0.9,0.4,5,2,13,27,48.1,84,24,59,4,5
+Sat,Matchweek 29,Away,L 0–1,West Ham,Arsenal,Y,FW,90,0,0,0,0,1,1,0,0,41,27,1,0,0,0.2,0.2,0.3,3,0,18,28,64.3,67,19,34,0,1

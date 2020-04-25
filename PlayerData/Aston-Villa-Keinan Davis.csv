@@ -1,0 +1,9 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 2,Home,L 1–2,Aston Villa,Bournemouth,N,LW,3,0,0,0,0,0,0,0,0,6,2,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,5,1,0,2
+Sat,Matchweek 4,Away,L 0–1,Aston Villa,Crystal Palace,N,RW,31,0,0,0,0,0,0,0,0,12,4,1,0,1,0.0,0.0,0.0,1,0,7,8,87.5,0,9,48,1,1
+Mon,Matchweek 5,Home,D 0–0,Aston Villa,West Ham,N,RW,5,0,0,0,0,1,0,0,0,4,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,7,0,0
+Sat,Matchweek 7,Home,D 2–2,Aston Villa,Burnley,N,FW,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,6,2,17,0,0
+Sat,Matchweek 9,Home,W 2–1,Aston Villa,Brighton,N,FW,14,0,0,0,0,1,1,0,0,5,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,3,7,30,1,1
+Sat,Matchweek 10,Away,L 0–3,Aston Villa,Manchester City,N,FW,19,0,0,0,0,2,1,0,0,8,1,0,0,0,0.4,0.4,0.0,1,0,3,4,75.0,1,7,66,1,1
+Sat,Matchweek 25,Away,L 1–2,Aston Villa,Bournemouth,N,RW,32,0,0,0,0,3,1,0,0,14,5,0,0,0,0.2,0.2,0.0,1,1,7,9,77.8,19,15,66,3,3
+Mon,Matchweek 29,Away,L 0–4,Aston Villa,Leicester City,N,FW CM,23,0,0,0,0,0,0,0,0,12,7,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,17,7,64,0,2

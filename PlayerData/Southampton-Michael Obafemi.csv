@@ -1,0 +1,16 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Away,L 0–3,Southampton,Burnley,N,RW AM,24.0,0,0,0,0,0,0,0,0,11,5,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,1,10,30,1,3
+Sat,Matchweek 7,Away,L 1–2,Southampton,Tottenham,N,FW,7.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Sun,Matchweek 8,Home,L 1–4,Southampton,Chelsea,N,RW LW,17.0,0,0,0,0,0,0,0,0,5,5,1,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,42,1,2
+Sat,Matchweek 12,Home,L 1–2,Southampton,Everton,N,WB,,0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Sat,Matchweek 13,Away,D 2–2,Southampton,Arsenal,Y,FW,76.0,0,0,0,0,1,0,0,0,22,24,1,0,0,0.0,0.0,0.2,4,0,13,14,92.9,12,18,62,0,1
+Sat,Matchweek 14,Home,W 2–1,Southampton,Watford,Y,FW,57.0,0,0,0,0,0,0,0,0,15,11,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,4,10,1,1,1
+Sat,Matchweek 18,Away,W 3–1,Southampton,Aston Villa,N,FW,8.0,0,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Thu,Matchweek 19,Away,W 2–0,Southampton,Chelsea,Y,FW,69.0,1,0,0,0,2,1,0,0,28,27,0,0,1,0.2,0.2,0.0,0,0,10,16,62.5,23,18,51,2,5
+Wed,Matchweek 21,Home,W 1–0,Southampton,Tottenham,N,FW,14.0,0,0,0,0,0,0,0,0,8,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,15,7,23,0,1
+Tue,Matchweek 24,Away,W 2–0,Southampton,Crystal Palace,Y,FW,84.0,0,0,0,0,1,0,0,0,39,27,1,1,0,0.0,0.0,0.5,5,0,24,27,88.9,44,33,34,4,6
+Sat,Matchweek 25,Away,L 0–4,Southampton,Liverpool,N,FW,20.0,0,0,0,0,0,0,0,0,7,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,3,4,8,0,1
+Sat,Matchweek 26,Home,L 1–2,Southampton,Burnley,N,RW,17.0,0,0,0,0,0,0,1,0,7,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,2,4,9,0,0
+Sat,Matchweek 27,Home,W 2–0,Southampton,Aston Villa,N,FW,17.0,0,0,0,0,2,1,0,0,12,7,1,0,0,0.3,0.3,0.0,2,0,7,7,100.0,32,13,54,2,3
+Sat,Matchweek 28,Away,L 1–3,Southampton,West Ham,Y,FW CM,68.0,1,0,0,0,2,1,0,0,29,9,0,1,1,0.4,0.4,0.0,0,0,11,16,68.8,15,23,66,2,2
+Sat,Matchweek 29,Home,L 0–1,Southampton,Newcastle Utd,N,CM,5.0,0,0,0,0,0,0,0,0,3,9,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,9,3,3,1,1

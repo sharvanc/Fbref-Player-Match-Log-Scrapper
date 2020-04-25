@@ -1,0 +1,29 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Away,W 3–0,Brighton,Watford,N,FW,26,1,0,0,0,1,1,0,0,11,5,0,0,1,0.4,0.4,0.0,1,1,6,6,100.0,15,7,23,1,1
+Sat,Matchweek 2,Home,D 1–1,Brighton,West Ham,N,RW,23,0,0,0,0,2,0,0,0,19,3,1,0,0,0.3,0.3,0.0,0,0,8,11,72.7,24,12,10,0,0
+Sat,Matchweek 3,Home,L 0–2,Brighton,Southampton,Y,FW RW,74,0,0,0,0,3,1,0,0,29,17,1,0,0,0.4,0.4,0.0,3,0,8,12,66.7,6,22,43,1,5
+Sat,Matchweek 4,Away,L 0–4,Brighton,Manchester City,Y,FW,66,0,0,0,0,1,0,0,0,18,20,1,0,0,0.1,0.1,0.4,2,0,12,12,100.0,49,8,19,0,1
+Sat,Matchweek 5,Home,D 1–1,Brighton,Burnley,Y,FW,84,1,0,0,0,2,2,0,0,36,24,0,0,1,0.1,0.1,0.0,0,0,17,21,81.0,94,28,56,0,3
+Sat,Matchweek 6,Away,D 0–0,Brighton,Newcastle Utd,Y,FW,82,0,0,0,0,7,1,0,0,34,18,0,0,2,0.6,0.6,0.0,4,0,19,20,95.0,75,25,70,2,4
+Sat,Matchweek 7,Away,L 0–2,Brighton,Chelsea,Y,FW,79,0,0,0,0,0,0,1,0,24,29,1,1,1,0.0,0.0,0.0,0,0,14,18,77.8,17,16,30,0,1
+Sat,Matchweek 8,Home,W 3–0,Brighton,Tottenham,Y,FW,90,1,0,0,0,3,2,0,0,47,16,1,1,1,0.9,0.9,0.2,3,0,29,33,87.9,59,43,166,4,6
+Sat,Matchweek 9,Away,L 1–2,Brighton,Aston Villa,Y,FW,81,0,0,0,0,6,2,0,0,34,25,0,0,0,0.3,0.3,0.5,4,0,21,24,87.5,51,24,104,0,1
+Sat,Matchweek 10,Home,W 3–2,Brighton,Everton,Y,FW,90,1,0,1,1,2,0,0,0,40,29,3,0,0,0.8,0.1,0.2,3,0,18,29,62.1,75,32,63,2,2
+Sat,Matchweek 11,Home,W 2–0,Brighton,Norwich City,Y,FW,90,0,0,0,0,5,1,0,0,40,22,0,0,1,0.7,0.7,0.0,3,0,20,30,66.7,28,33,83,1,1
+Sun,Matchweek 12,Away,L 1–3,Brighton,Manchester Utd,Y,FW,90,0,0,0,0,1,0,0,0,25,22,0,0,2,0.0,0.0,0.0,1,0,14,19,73.7,17,18,20,0,0
+Sat,Matchweek 13,Home,L 0–2,Brighton,Leicester City,Y,FW,90,0,0,0,0,2,0,0,0,22,15,1,0,0,0.1,0.1,0.0,2,0,15,16,93.8,84,15,26,2,2
+Sat,Matchweek 14,Away,L 1–2,Brighton,Liverpool,N,FW,14,0,0,0,0,0,0,0,0,4,1,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,3,0,0
+Thu,Matchweek 15,Away,W 2–1,Brighton,Arsenal,Y,FW,90,1,0,0,0,5,3,0,0,34,34,1,0,0,0.8,0.8,0.1,4,0,18,22,81.8,53,24,128,0,0
+Sun,Matchweek 16,Home,D 2–2,Brighton,Wolves,Y,FW,90,1,0,0,0,5,3,0,0,29,16,0,0,0,0.5,0.5,0.0,2,0,15,20,75.0,21,25,75,3,3
+Mon,Matchweek 17,Away,D 1–1,Brighton,Crystal Palace,Y,FW,90,1,0,0,0,2,2,0,0,36,15,0,0,1,0.9,0.9,0.0,0,0,17,21,81.0,47,26,56,0,1
+Sat,Matchweek 18,Home,L 0–1,Brighton,Sheffield Utd,Y,FW,90,0,0,0,0,1,0,0,0,30,16,1,1,2,0.1,0.1,0.0,0,0,13,19,68.4,53,16,31,0,0
+Thu,Matchweek 19,Away,L 1–2,Brighton,Tottenham,N,FW,22,0,0,0,0,0,0,0,0,6,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,3,3,0,0
+Sat,Matchweek 20,Home,W 2–0,Brighton,Bournemouth,Y,FW,90,0,1,0,0,5,1,0,0,37,22,1,1,0,0.2,0.2,0.1,3,1,18,21,85.7,19,30,172,2,3
+Wed,Matchweek 21,Home,D 1–1,Brighton,Chelsea,Y,FW,90,0,0,0,0,1,1,1,0,39,36,1,0,3,0.2,0.2,0.0,5,0,19,25,76.0,62,27,97,2,3
+Sat,Matchweek 22,Away,L 0–1,Brighton,Everton,Y,FW,90,0,0,0,0,1,0,0,0,36,26,0,0,0,0.1,0.1,0.0,1,0,18,24,75.0,73,30,112,1,3
+Sat,Matchweek 23,Home,D 1–1,Brighton,Aston Villa,Y,FW,90,0,1,0,0,4,1,1,0,47,26,2,0,2,0.2,0.2,0.1,1,1,18,27,66.7,50,38,93,1,1
+Tue,Matchweek 24,Away,L 1–3,Brighton,Bournemouth,Y,FW,90,0,0,0,0,8,3,0,0,35,21,0,0,0,0.8,0.8,0.0,4,0,15,19,78.9,53,21,74,1,3
+Sat,Matchweek 26,Home,D 1–1,Brighton,Watford,N,LB,33,0,0,0,0,0,0,0,0,18,3,1,0,0,0.0,0.0,0.3,2,1,7,10,70.0,35,17,45,1,3
+Sat,Matchweek 27,Away,D 1–1,Brighton,Sheffield Utd,Y,FW RW,90,1,0,0,0,3,1,0,0,26,41,2,0,2,0.4,0.4,0.0,0,0,9,13,69.2,4,16,75,1,3
+Sat,Matchweek 28,Home,L 0–1,Brighton,Crystal Palace,Y,FW AM,90,0,0,0,0,5,4,0,0,42,14,1,0,3,0.5,0.5,0.0,2,0,21,24,87.5,49,27,117,1,3
+Sat,Matchweek 29,Away,D 0–0,Brighton,Wolves,Y,FW,90,0,0,0,0,0,0,0,0,46,26,1,0,2,0.0,0.0,0.0,2,0,26,31,83.9,50,37,90,0,0

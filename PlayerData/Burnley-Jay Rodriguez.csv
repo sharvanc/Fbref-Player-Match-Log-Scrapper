@@ -1,0 +1,29 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Home,W 3–0,Burnley,Southampton,N,FW,6,0,0,0,0,0,0,0,0,2,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0
+Sat,Matchweek 2,Away,L 1–2,Burnley,Arsenal,N,FW,29,0,0,0,0,1,0,0,0,6,5,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,3,1,0,0
+Sun,Matchweek 3,Away,D 1–1,Burnley,Wolves,N,FW,12,0,0,0,0,0,0,0,0,6,8,1,0,1,0.0,0.0,0.0,0,0,2,2,100.0,10,3,26,0,2
+Sat,Matchweek 4,Home,L 0–3,Burnley,Liverpool,N,FW,17,0,0,0,0,1,1,0,0,5,6,0,0,0,0.2,0.2,0.0,2,0,3,3,100.0,0,6,37,2,2
+Sat,Matchweek 5,Away,D 1–1,Burnley,Brighton,N,FW,24,0,0,0,0,0,0,0,0,3,8,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,4,34,1,1
+Sat,Matchweek 6,Home,W 2–0,Burnley,Norwich City,N,FW,11,0,0,0,0,0,0,0,0,7,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,12,8,46,1,3
+Sat,Matchweek 7,Away,D 2–2,Burnley,Aston Villa,N,CM,45,1,0,0,0,1,1,1,0,12,26,2,0,1,0.1,0.1,0.1,1,0,3,6,50.0,4,4,3,0,1
+Sat,Matchweek 8,Home,W 1–0,Burnley,Everton,N,FW,17,0,0,0,0,1,1,0,0,8,9,2,0,0,0.2,0.2,0.0,1,0,3,4,75.0,3,5,46,0,0
+Sat,Matchweek 9,Away,L 1–2,Burnley,Leicester City,Y,FW,83,0,0,0,0,1,0,0,0,29,21,2,0,1,0.0,0.0,0.0,1,0,14,21,66.7,45,15,8,1,2
+Sat,Matchweek 10,Home,L 2–4,Burnley,Chelsea,Y,FW,90,1,0,0,0,3,2,0,0,36,44,1,0,3,0.4,0.4,0.3,3,1,16,20,80.0,47,19,77,0,1
+Sat,Matchweek 11,Away,L 0–3,Burnley,Sheffield Utd,Y,FW,78,0,0,0,0,1,0,0,0,25,12,0,0,1,0.1,0.1,0.0,0,0,11,16,68.8,18,17,28,1,1
+Sat,Matchweek 12,Home,W 3–0,Burnley,West Ham,N,FW,9,0,0,0,0,0,0,0,0,6,1,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,5,5,0,0
+Sat,Matchweek 13,Away,W 3–0,Burnley,Watford,N,FW,15,0,0,0,0,1,0,0,0,7,5,0,1,1,0.2,0.2,0.0,0,0,3,4,75.0,9,4,6,0,1
+Sat,Matchweek 14,Home,L 0–2,Burnley,Crystal Palace,N,FW,28,0,0,0,0,1,0,0,0,13,7,0,0,1,0.1,0.1,0.0,1,0,4,6,66.7,18,7,28,2,2
+Tue,Matchweek 15,Home,L 1–4,Burnley,Manchester City,N,FW,31,0,0,0,0,0,0,0,0,8,19,0,1,2,0.0,0.0,0.0,0,0,4,5,80.0,0,4,24,0,0
+Sat,Matchweek 16,Away,L 0–5,Burnley,Tottenham,Y,FW,90,0,0,0,0,4,1,0,0,41,28,2,0,0,0.2,0.2,0.0,0,0,13,24,54.2,24,22,27,0,1
+Sat,Matchweek 17,Home,W 1–0,Burnley,Newcastle Utd,N,FW,5,0,0,0,0,0,0,0,0,8,4,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,4,6,0,0
+Sat,Matchweek 18,Away,W 1–0,Burnley,Bournemouth,N,FW,15,1,0,0,0,1,1,0,0,5,10,1,0,0,0.2,0.2,0.0,0,0,2,3,66.7,0,2,0,0,0
+Thu,Matchweek 19,Away,L 0–1,Burnley,Everton,Y,FW,90,0,0,0,0,2,0,0,0,17,42,1,0,0,0.0,0.0,0.0,0,0,6,12,50.0,4,6,2,0,0
+Sat,Matchweek 20,Home,L 0–2,Burnley,Manchester Utd,N,CM,31,0,0,0,0,0,0,0,0,16,15,2,0,3,0.0,0.0,0.0,0,0,5,10,50.0,37,8,38,0,0
+Wed,Matchweek 21,Home,L 1–2,Burnley,Aston Villa,N,FW,45,0,0,0,0,5,0,0,0,28,8,0,1,1,0.8,0.8,0.0,1,0,14,17,82.4,42,19,17,0,0
+Sun,Matchweek 23,Home,W 2–1,Burnley,Leicester City,Y,FW,90,0,0,0,0,1,1,0,0,39,22,4,1,0,0.0,0.0,0.0,0,0,16,25,64.0,40,24,93,1,3
+Wed,Matchweek 24,Away,W 2–0,Burnley,Manchester Utd,Y,FW,90,1,0,0,0,1,1,0,0,37,51,2,1,2,0.0,0.0,0.0,1,1,16,23,69.6,24,19,45,0,0
+Sun,Matchweek 25,Home,D 0–0,Burnley,Arsenal,Y,FW,90,0,0,0,0,4,2,0,0,41,29,1,0,5,0.8,0.8,0.0,0,0,23,29,79.3,66,23,65,0,1
+Sat,Matchweek 26,Away,W 2–1,Burnley,Southampton,Y,FW,90,0,0,0,0,2,2,0,0,38,33,1,0,4,0.1,0.1,0.0,0,0,14,23,60.9,16,21,56,1,4
+Sat,Matchweek 27,Home,W 3–0,Burnley,Bournemouth,Y,FW,90,1,0,1,1,4,2,0,0,46,14,0,0,1,1.1,0.4,0.0,2,1,25,34,73.5,44,33,63,1,3
+Sat,Matchweek 28,Away,D 0–0,Burnley,Newcastle Utd,Y,FW,90,0,0,0,0,3,0,0,0,35,22,1,0,4,0.4,0.4,0.0,0,0,15,20,75.0,36,17,54,1,2
+Sat,Matchweek 29,Home,D 1–1,Burnley,Tottenham,Y,FW,68,0,0,0,0,4,1,0,0,37,12,3,0,0,0.2,0.2,0.0,6,1,18,22,81.8,47,18,31,0,0

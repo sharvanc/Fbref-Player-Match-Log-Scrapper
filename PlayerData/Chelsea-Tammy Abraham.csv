@@ -1,0 +1,26 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sun,Matchweek 1,Away,L 0–4,Chelsea,Manchester Utd,Y,FW,66,0,0,0,0,2,0,1,0,21,16,1,0,0,0.2,0.2,0.0,0,0,9,13,69.2,18,15,13,0,1
+Sun,Matchweek 2,Home,D 1–1,Chelsea,Leicester City,N,FW,29,0,0,0,0,2,0,0,0,12,2,0,0,0,0.2,0.2,0.0,3,0,7,8,87.5,41,6,20,1,1
+Sat,Matchweek 3,Away,W 3–2,Chelsea,Norwich City,Y,FW,75,2,0,0,0,3,2,0,0,24,21,0,0,2,0.3,0.3,0.1,2,1,9,12,75.0,4,15,14,1,1
+Sat,Matchweek 4,Home,D 2–2,Chelsea,Sheffield Utd,Y,FW,84,2,0,0,0,4,3,0,0,28,18,0,0,0,0.9,0.9,0.6,4,0,14,17,82.4,58,19,49,0,1
+Sat,Matchweek 5,Away,W 5–2,Chelsea,Wolves,Y,FW,77,3,0,0,0,4,3,1,0,35,20,1,0,3,0.6,0.6,0.0,1,1,12,16,75.0,60,18,31,1,1
+Sun,Matchweek 6,Home,L 1–2,Chelsea,Liverpool,Y,FW,77,0,0,0,0,3,1,0,0,22,15,0,1,0,0.7,0.7,0.0,1,0,7,13,53.8,37,13,38,0,0
+Sat,Matchweek 7,Home,W 2–0,Chelsea,Brighton,Y,FW,84,0,0,0,0,5,3,0,0,24,16,1,0,0,0.9,0.9,0.1,5,0,10,15,66.7,21,16,48,0,0
+Sun,Matchweek 8,Away,W 4–1,Chelsea,Southampton,Y,FW,84,1,0,0,0,3,3,0,0,25,17,0,0,1,0.3,0.3,0.3,1,0,5,13,38.5,17,15,27,1,1
+Sat,Matchweek 9,Home,W 1–0,Chelsea,Newcastle Utd,Y,FW,90,0,0,0,0,4,1,0,0,18,4,1,1,1,0.8,0.8,0.0,1,0,6,9,66.7,22,9,37,1,1
+Sat,Matchweek 10,Away,W 4–2,Chelsea,Burnley,Y,FW,70,0,1,0,0,1,0,0,0,23,17,0,0,1,0.0,0.0,0.0,1,1,12,14,85.7,44,11,51,0,1
+Sat,Matchweek 11,Away,W 2–1,Chelsea,Watford,Y,FW,88,1,1,0,0,4,2,0,0,24,24,0,0,1,1.0,1.0,0.6,3,1,12,12,100.0,28,11,27,0,0
+Sat,Matchweek 12,Home,W 2–0,Chelsea,Crystal Palace,Y,FW,73,1,0,0,0,2,1,0,0,26,12,1,0,0,0.6,0.6,0.0,1,0,12,15,80.0,19,20,60,1,3
+Sat,Matchweek 13,Away,L 1–2,Chelsea,Manchester City,Y,FW,73,0,0,0,0,2,0,0,0,26,23,0,1,1,0.3,0.3,0.1,2,0,12,16,75.0,38,15,42,0,1
+Wed,Matchweek 15,Home,W 2–1,Chelsea,Aston Villa,Y,FW,83,1,1,0,0,5,2,0,0,38,21,3,1,3,0.8,0.8,0.1,4,1,14,18,77.8,24,19,34,1,2
+Sat,Matchweek 16,Away,L 1–3,Chelsea,Everton,Y,FW,90,0,0,0,0,2,1,0,0,28,10,0,0,0,0.3,0.3,0.0,0,0,17,18,94.4,60,14,4,0,0
+Sat,Matchweek 17,Home,L 0–1,Chelsea,Bournemouth,Y,FW LW,90,0,0,0,0,3,0,0,0,23,9,0,0,1,0.3,0.3,0.0,0,0,5,12,41.7,4,10,1,0,0
+Sun,Matchweek 18,Away,W 2–0,Chelsea,Tottenham,Y,FW,80,0,0,0,0,3,0,0,0,29,12,0,0,0,0.2,0.2,0.0,0,0,10,18,55.6,43,18,62,2,4
+Thu,Matchweek 19,Home,L 0–2,Chelsea,Southampton,Y,FW,90,0,0,0,0,1,0,0,0,43,12,1,0,1,0.1,0.1,0.0,0,0,15,25,60.0,22,33,55,3,4
+Sun,Matchweek 20,Away,W 2–1,Chelsea,Arsenal,Y,FW,90,1,0,0,0,5,2,0,0,31,15,0,0,2,0.5,0.5,0.0,2,1,10,17,58.8,31,19,109,1,1
+Wed,Matchweek 21,Away,D 1–1,Chelsea,Brighton,Y,FW,90,0,0,0,0,2,0,0,0,35,24,2,0,0,0.4,0.4,0.1,3,1,13,23,56.5,34,24,56,1,1
+Sat,Matchweek 22,Home,W 3–0,Chelsea,Burnley,Y,FW,90,1,0,0,0,4,2,0,0,27,9,0,0,2,0.6,0.6,0.0,3,0,11,15,73.3,84,18,63,0,1
+Sat,Matchweek 23,Away,L 0–1,Chelsea,Newcastle Utd,Y,FW,80,0,0,0,0,4,1,0,0,21,14,0,0,0,1.3,1.3,0.0,2,0,8,11,72.7,21,16,71,1,1
+Tue,Matchweek 24,Home,D 2–2,Chelsea,Arsenal,Y,FW,90,0,0,0,0,3,2,0,0,22,18,0,0,0,0.5,0.5,0.0,3,2,9,13,69.2,10,12,85,2,3
+Sat,Matchweek 25,Away,D 2–2,Chelsea,Leicester City,Y,FW,83,0,0,0,0,0,0,0,0,25,21,0,0,1,0.0,0.0,0.1,1,0,9,11,81.8,16,11,16,1,3
+Sat,Matchweek 27,Home,W 2–1,Chelsea,Tottenham,N,FW,19,0,0,0,0,2,1,0,0,11,10,1,0,1,0.5,0.5,0.0,0,0,2,3,66.7,0,4,16,1,1

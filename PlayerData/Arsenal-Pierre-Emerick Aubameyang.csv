@@ -1,0 +1,27 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sun,Matchweek 1,Away,W 1–0,Arsenal,Newcastle Utd,Y,FW,90,1,0,0,0,4,2,0,0,42,20,0,0,0,0.7,0.7,0.0,1,0,17,29,58.6,47,37,133,0,0
+Sat,Matchweek 2,Home,W 2–1,Arsenal,Burnley,Y,RW FW,90,1,0,0,0,3,2,1,0,40,9,1,0,1,0.2,0.2,0.1,1,0,18,28,64.3,98,28,157,0,3
+Sat,Matchweek 3,Away,L 1–3,Arsenal,Liverpool,Y,FW LW,90,0,0,0,0,2,0,0,0,37,22,2,0,1,0.3,0.3,0.1,2,0,19,26,73.1,113,28,137,0,1
+Sun,Matchweek 4,Home,D 2–2,Arsenal,Tottenham,Y,LW FW,90,1,0,0,0,4,1,0,0,41,22,1,1,1,0.5,0.5,0.2,4,0,23,31,74.2,136,37,181,2,3
+Sun,Matchweek 5,Away,D 2–2,Arsenal,Watford,Y,FW,90,2,0,0,0,3,2,0,0,35,17,1,1,0,0.8,0.8,0.0,0,0,22,25,88.0,76,24,85,0,0
+Sun,Matchweek 6,Home,W 3–2,Arsenal,Aston Villa,Y,FW,90,1,0,0,0,4,2,1,0,33,20,1,0,0,0.6,0.6,0.0,1,1,11,22,50.0,45,21,117,0,1
+Mon,Matchweek 7,Away,D 1–1,Arsenal,Manchester Utd,Y,FW,90,1,0,0,0,1,1,0,0,33,19,1,0,6,0.4,0.4,0.0,2,0,13,22,59.1,66,21,60,0,0
+Sun,Matchweek 8,Home,W 1–0,Arsenal,Bournemouth,Y,FW,90,0,0,0,0,4,1,0,0,30,22,1,0,0,0.6,0.6,0.0,1,0,16,20,80.0,62,20,155,0,0
+Mon,Matchweek 9,Away,L 0–1,Arsenal,Sheffield Utd,Y,FW RW LW,90,0,0,0,0,1,0,0,0,34,7,0,0,2,0.1,0.1,0.0,1,0,21,28,75.0,66,26,90,2,2
+Sun,Matchweek 10,Home,D 2–2,Arsenal,Crystal Palace,Y,FW,90,0,0,0,0,2,0,0,0,26,18,0,0,1,0.1,0.1,0.1,1,0,14,17,82.4,48,19,132,0,0
+Sat,Matchweek 11,Home,D 1–1,Arsenal,Wolves,Y*,FW,90,1,0,0,0,3,2,0,0,36,26,1,0,2,0.4,0.4,0.0,2,0,15,25,60.0,84,26,162,0,1
+Sat,Matchweek 12,Away,L 0–2,Arsenal,Leicester City,Y*,FW LW,90,0,0,0,0,1,0,0,0,33,13,0,0,0,0.1,0.1,0.2,4,0,17,26,65.4,123,31,155,3,4
+Sat,Matchweek 13,Home,D 2–2,Arsenal,Southampton,Y*,FW LW RW,90,0,0,0,0,2,1,0,0,35,13,2,1,1,0.5,0.5,0.0,4,2,17,23,73.9,26,23,65,0,2
+Sun,Matchweek 14,Away,D 2–2,Arsenal,Norwich City,Y*,RW LW,90,2,0,1,1,1,1,0,0,49,22,3,0,3,0.8,0.1,0.1,1,0,24,39,61.5,127,34,125,1,2
+Thu,Matchweek 15,Home,L 1–2,Arsenal,Brighton,Y*,RW LW FW,90,0,0,0,0,2,0,0,0,34,28,2,0,3,0.3,0.3,0.2,1,0,20,26,76.9,96,23,90,0,0
+Mon,Matchweek 16,Away,W 3–1,Arsenal,West Ham,Y*,FW,90,1,1,0,0,3,1,0,0,29,16,1,0,2,0.6,0.6,0.4,5,2,14,18,77.8,57,20,93,2,2
+Sun,Matchweek 17,Home,L 0–3,Arsenal,Manchester City,Y*,FW,90,0,0,0,0,2,0,0,0,19,33,1,0,1,0.1,0.1,0.0,0,0,9,14,64.3,7,5,0,0,1
+Sat,Matchweek 18,Away,D 0–0,Arsenal,Everton,Y*,FW,78,0,0,0,0,3,2,0,0,20,11,0,0,0,0.7,0.7,0.0,0,0,7,16,43.8,45,11,135,1,1
+Thu,Matchweek 19,Away,D 1–1,Arsenal,Bournemouth,Y*,LW,90,1,0,0,0,5,1,1,0,41,15,1,0,1,0.7,0.7,0.0,0,0,21,32,65.6,54,29,121,0,0
+Sun,Matchweek 20,Home,L 1–2,Arsenal,Chelsea,Y*,LW,90,1,0,0,0,2,1,0,0,47,22,3,2,8,0.7,0.7,0.0,0,0,17,22,77.3,85,24,119,0,0
+Wed,Matchweek 21,Home,W 2–0,Arsenal,Manchester Utd,Y*,LW,90,0,0,0,0,1,0,0,0,41,31,1,0,5,0.1,0.1,0.0,2,0,25,34,73.5,100,27,154,2,2
+Sat,Matchweek 22,Away,D 1–1,Arsenal,Crystal Palace,Y*,LW AM,66,1,0,0,0,1,1,0,1,29,7,1,0,2,0.5,0.5,0.0,0,0,11,18,61.1,11,18,25,0,0
+Sun,Matchweek 25,Away,D 0–0,Arsenal,Burnley,Y*,LW,90,0,0,0,0,3,1,0,0,36,15,0,0,2,0.6,0.6,0.2,3,0,19,26,73.1,94,29,179,1,4
+Sun,Matchweek 26,Home,W 4–0,Arsenal,Newcastle Utd,Y*,LW,90,1,0,0,0,4,2,0,0,46,12,3,2,1,0.3,0.3,0.0,1,0,27,35,77.1,78,37,128,2,4
+Sun,Matchweek 27,Home,W 3–2,Arsenal,Everton,Y*,LW,90,2,0,0,0,2,2,0,0,41,8,2,1,0,0.5,0.5,0.0,0,0,21,30,70.0,87,34,102,1,2
+Sat,Matchweek 29,Home,W 1–0,Arsenal,West Ham,Y*,LW,90,0,0,0,0,1,0,0,0,48,8,1,0,0,0.0,0.0,0.2,6,1,30,42,71.4,120,33,171,2,2

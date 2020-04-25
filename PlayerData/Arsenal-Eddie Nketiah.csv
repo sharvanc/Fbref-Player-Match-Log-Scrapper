@@ -1,0 +1,6 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 23,Home,D 1–1,Arsenal,Sheffield Utd,N,FW,16,0,0,0,0,1,0,0,0,8,4,0,0,0,0.0,0.0,0.1,1,0,3,6,50.0,21,7,35,0,0
+Sun,Matchweek 25,Away,D 0–0,Arsenal,Burnley,N,FW,1,0,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Sun,Matchweek 26,Home,W 4–0,Arsenal,Newcastle Utd,Y,FW,85,0,0,0,0,2,1,0,0,27,18,1,0,0,0.5,0.5,0.0,0,0,15,18,83.3,0,20,24,0,1
+Sun,Matchweek 27,Home,W 3–2,Arsenal,Everton,Y,FW,90,1,0,0,0,3,1,0,0,34,30,2,0,2,0.6,0.6,0.0,0,0,14,16,87.5,6,23,52,0,0
+Sat,Matchweek 29,Home,W 1–0,Arsenal,West Ham,Y,FW,59,0,0,0,0,1,1,0,0,23,10,0,0,0,0.3,0.3,0.2,1,0,11,15,73.3,13,15,10,1,3

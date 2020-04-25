@@ -1,0 +1,3 @@
+Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PassPrgDist,Carries,CarryPrgDist,Succ,DribAtt
+Sat,Matchweek 1,Home,L 0–5,West Ham,Manchester City,N,FW RW,24,0,0,0,0,2,1,0,0,11,3,0,0,0,0.4,0.4,0.0,2,0,8,8,100.0,4,5,2,0,0
+Sat,Matchweek 2,Away,D 1–1,West Ham,Brighton,Y,FW,83,1,0,0,0,1,1,0,0,18,23,0,0,0,0.3,0.3,0.0,0,0,11,14,78.6,45,9,6,0,1
